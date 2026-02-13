@@ -1,0 +1,33 @@
+.figure {
+  text-align: center;
+}
+
+.figure figcaption {
+  text-align: center;
+}
+
+
+.hb-banner-global {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  line-height: 0;
+}
+
+.hb-banner-global img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+
+/* Push page content below banner */
+/*.page-columns {
+  margin-top: 200px;
+}
+*/
+
+
+/* Increase main content width */
+.page-columns .content {
+  max-width: 1000px;   /* default is ~800–900px */
+}

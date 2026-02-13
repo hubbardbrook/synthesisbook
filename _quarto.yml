@@ -1,0 +1,20 @@
+project:
+  type: book
+
+book:
+  title: ""
+  chapters:
+    - index.qmd
+    - SiteHistory.qmd
+    - CompositionDynamics.qmd
+  sidebar:
+    style: docked
+    collapse-level: 2
+
+format:
+  html:
+    title-block: false
+    css: styles.css
+    toc: true
+    toc-title: "Chapter Sections"
+    include-before-body: includes/banner.html
