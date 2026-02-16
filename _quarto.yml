@@ -1,7 +1,8 @@
 project:
   type: book
   output-dir: docs
-
+  resources:
+    - images/
 book:
   title: ""
   chapters:
