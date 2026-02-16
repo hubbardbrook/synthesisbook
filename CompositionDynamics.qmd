@@ -8,55 +8,9 @@ Chapter Editor(s): John Battles
 
 Figure 1. Pollen accumulation rates for pollen types in Mirror Lake (Davis 1985).
 
-As originally conceived by Bormann and Likens (1979), the Hubbard Brook
-landscape is dominated by northern hardwood forest which consists of a patchwork
-of stands of varying structure and composition that shifts through time, the
-“shifting-mosaic steady state.” The forest is dominated by three broadleaf
-deciduous tree species, sugar maple, yellow birch and American beech, with a
-mixture of several deciduous and evergreen conifer species. Above about 800
-meters in the HB valley, subalpine forest of red spruce and balsam fir (and
-formerly mountain paper birch) is dominant, especially on thinner, less fertile
-soils.
+As originally conceived by Bormann and Likens (1979), the Hubbard Brook landscape is dominated by northern hardwood forest which consists of a patchwork of stands of varying structure and composition that shifts through time, the “shifting-mosaic steady state.” The forest is dominated by three broadleaf deciduous tree species, sugar maple, yellow birch and American beech, with a mixture of several deciduous and evergreen conifer species. Above about 800 meters in the HB valley, subalpine forest of red spruce and balsam fir (and formerly mountain paper birch) is dominant, especially on thinner, less fertile soils.
 
-The composition of the forest at Hubbard Brook has seen periods of relative
-stability interspersed with shifts owing to a variety of forces. These include
-climatic changes, natural disturbances such as pests and pathogens, and most
-recently human activity, especially logging in the 19th and 20th century. The
-Holocene forest vegetation history of the Hubbard Brook area has been
-reconstructed on the basis of sediment coring of Mirror Lake, located near the
-valley outlet (Figure 1; Davis 1985).
-The area was deglaciated between 13-14,000 yr BP, and the climate soon warmed to
-resemble the modern climate. Spruce was the first tree species to invade
-post-glacial tundra around Mirror Lake and pollen data suggest that it spread
-widely through the HB valley by 11,000 yr BP. Fir, birch and Populus increased
-about 1,000 years later and spruce abundance subsequently declined. Thereafter,
-pine and oak became more abundant suggestive of a warmer climate 9-8,000 yr BP.
-By 7,000 yr BP, abundance of fir, pine and oak declined, while maple, beech and
-hemlock increased. Hemlock exhibited a sudden decline at about 5,000 yr BP that
-has been ascribed to an insect or pathogen, (but see Foster et al. 2006), and it
-then gradually recovered over a 1,000 year period. With that notable exception,
-and a resurgence in spruce abundance beginning about 2,000 yr BP, the forest
-composition in the HB valley was fairly stable after 6,000 yr BP until the
-arrival of Europeans in the 19th century. At the time of European settlement,
-the composition of the northern hardwood forest in the HB valley was comparable
-to the modern forest, being dominated by yellow birch, sugar maple and American
-beech; however, based on historical records (Chittenden 1905) red spruce was
-more abundant and sugar maple less so in the pre-settlement forests of the White
-Mountains. Spruce was selectively logged from the HB valley in the late 19th
-century, reducing its abundance thereafter. Much of the HB valley was
-subsequently heavily logged during the first two decades of the 20thcentury and
-most of the modern forest stands date from this time period. An exceptional
-hurricane disturbance in 1938 blew down extensive areas of the south and east
-facing slopes and salvage logging following this event further opened the
-residual forest. Notably, the 1938 hurricane caused much less damage to younger
-stands that arose following early 20th century logging than older lightly cut
-areas of the forest (Peart et al. 1992). In summary, the modern forest in the HB
-valley exhibits a complex age and size structure that varies spatially as a
-result of these historical large-scale disturbance events. However, despite this
-anthropogenic disturbance history the current structure and composition of the
-HB forest is similar to that of a virgin remnant forest at the Bowl Research
-National Area located about 30 km east of HB (Figure 2, 3; Schwarz et al. 2001,
-Martin and Bailey 1999).
+The composition of the forest at Hubbard Brook has seen periods of relative stability interspersed with shifts owing to a variety of forces. These include climatic changes, natural disturbances such as pests and pathogens, and most recently human activity, especially logging in the 19th and 20th century. The Holocene forest vegetation history of the Hubbard Brook area has been reconstructed on the basis of sediment coring of Mirror Lake, located near the valley outlet (Figure 1; Davis 1985). The area was deglaciated between 13-14,000 yr BP, and the climate soon warmed to resemble the modern climate. Spruce was the first tree species to invade post-glacial tundra around Mirror Lake and pollen data suggest that it spread widely through the HB valley by 11,000 yr BP. Fir, birch and Populus increased about 1,000 years later and spruce abundance subsequently declined. Thereafter, pine and oak became more abundant suggestive of a warmer climate 9-8,000 yr BP. By 7,000 yr BP, abundance of fir, pine and oak declined, while maple, beech and hemlock increased. Hemlock exhibited a sudden decline at about 5,000 yr BP that has been ascribed to an insect or pathogen, (but see Foster et al. 2006), and it then gradually recovered over a 1,000 year period. With that notable exception, and a resurgence in spruce abundance beginning about 2,000 yr BP, the forest composition in the HB valley was fairly stable after 6,000 yr BP until the arrival of Europeans in the 19th century. At the time of European settlement, the composition of the northern hardwood forest in the HB valley was comparable to the modern forest, being dominated by yellow birch, sugar maple and American beech; however, based on historical records (Chittenden 1905) red spruce was more abundant and sugar maple less so in the pre-settlement forests of the White Mountains. Spruce was selectively logged from the HB valley in the late 19th century, reducing its abundance thereafter. Much of the HB valley was subsequently heavily logged during the first two decades of the 20thcentury and most of the modern forest stands date from this time period. An exceptional hurricane disturbance in 1938 blew down extensive areas of the south and east facing slopes and salvage logging following this event further opened the residual forest. Notably, the 1938 hurricane caused much less damage to younger stands that arose following early 20th century logging than older lightly cut areas of the forest (Peart et al. 1992). In summary, the modern forest in the HB valley exhibits a complex age and size structure that varies spatially as a result of these historical large-scale disturbance events. However, despite this anthropogenic disturbance history the current structure and composition of the HB forest is similar to that of a virgin remnant forest at the Bowl Research National Area located about 30 km east of HB (Figure 2, 3; Schwarz et al. 2001, Martin and Bailey 1999).
 
 Figure 2. Size-class distribution of tree stems in old-growth (Bowl) and second-growth northern hardwood forests (Schwarz et al. 2001).
 
@@ -68,19 +22,9 @@ Figure 3. Basal area and density of tree species in virgin (Bowl) and secondary 
 
 ## Modern Forest
 
-A detailed picture of the current structure and composition of the second-growth
-forest at HB is provided on the basis of a valley-wide grid of 431 permanent
-plots. Overall, the size structure of the forest exhibits the usual “reverse-j”
-shaped curve typical of mature forests composed mostly of shade-tolerant species
-(Figure 2). Notably, sugar maple and beech are considerably more abundant and
-yellow birch and conifers less abundant in south-facing reference WS6 than for
-the entire HB valley.
+A detailed picture of the current structure and composition of the second-growth forest at HB is provided on the basis of a valley-wide grid of 431 permanent plots. Overall, the size structure of the forest exhibits the usual “reverse-j” shaped curve typical of mature forests composed mostly of shade-tolerant species (Figure 2). Notably, sugar maple and beech are considerably more abundant and yellow birch and conifers less abundant in south-facing reference WS6 than for the entire HB valley.
 
-Five principal forest vegetation types are distinguished within the HBEF (Figure
-4) including the core northern hardwood forest; a hemlock-hardwood type,
-restricted to the lower valley and; a high-elevation hardwood type, marked by
-the increased dominance of yellow birch relative to beech, the relative scarcity
-of sugar maple, and the inclusion of red spruce as a common species.
+Five principal forest vegetation types are distinguished within the HBEF (Figure 4) including the core northern hardwood forest; a hemlock-hardwood type, restricted to the lower valley and; a high-elevation hardwood type, marked by the increased dominance of yellow birch relative to beech, the relative scarcity of sugar maple, and the inclusion of red spruce as a common species.
 
 Figure 4. Forest vegetation types in the Hubbard Brook Valley (Battles, unpublished data).
 
@@ -90,127 +34,24 @@ Figure 5. Demographic factors of dominant tree species in the Hubbard Brook Vall
 
 Figure 5. Demographic factors of dominant tree species in the Hubbard Brook Valley at the turn of the 21st century (van Doorn et al., 2011).
 
-At higher elevations, conifer dominated forests prevail with two distinct types:
-a spruce-fir-birch type and a fir-birch type ( paper birch died out of the
-latter types during the early 21st century – see below). Early-successional
-forest stands are found on four small watersheds (WS2, 4, 5, 101) that were
-harvested experimentally between 1966 and 1984. On a valley-wide basis (van
-Doorn et al. 2011), three tree species have exhibited declining biomass in
-recent years (yellow birch, American beech and paper birch) while five species
-have been increasing (sugar maple, red spruce, balsam fir, hemlock and white
-ash). The decline of American beech is a consequence of an introduced disease
-complex (Houston 1975); similar changes are anticipated in the near future for
-hemlock and white ash (see below).Trends in forest structure and composition are
-indicated by the key population parameters of mortality, growth and
-reproduction. Live tree biomass of the HB forest has been nearly constant in
-recent years, as losses in biomass owing to tree mortality (28.5 Mg/ha) have
-been balanced by gains from growth of surviving trees (24.2 Mg/ha) and
-recruitment into the \> 10 cm dbh class (2.8 Mg/ha). Losses from mortality on
-both a biomass and stem density basis have been greatest for yellow birch, the
-most abundant species in the HB valley. This trend probably reflects the
-age-structure of the yellow birch population that consists of veteran trees that
-pre-date 19th century logging and many individuals that regenerated after early
-20th century logging and the 1938 hurricane. On a stem density basis balsam fir
-also exhibited high mortality, but these losses have been more than
-counterbalanced by high recruitment (Figure 5); fir also showed the highest
-relative growth rate of all tree species at HB.
-Conversely, paper birch exhibited high mortality, low recruitment and the lowest
-growth rate of all tree species at the HBEF. This pattern signals a species in
-decline, reflecting in part senescence of a cohort originating from the
-large-scale disturbance in the early 20th century as well as possible stresses
-owing to ice storm damage and severe drought in recent years. The picture for
-paper birch is complicated by the fact that two species (B. papyrifera and B.
-cordifolia) comprise the surveyed population, and future work comparing their
-dynamics is needed.
-The population of sugar maple, the second most abundant species at HB, appears
-to be near equilibrium on a valley-wide basis, with recruitment matching
-mortality on a density basis and growth exceeding mortality on a live biomass
-basis (Figure 6). However, as discussed below, in some areas of the HB forest,
-especially in and around the experimental watersheds on the south facing slope
-(Figure 4) sugar maple is clearly declining with high mortality and low
-reproduction. Moreover, at the stage of development of the HB forest, we would
-expect the relative abundance of sugar maple to be increasing on a valley-wide
-basis. Hence, sugar maple seems to be suffering from unexpected decline at
-HB.American beech is also declining throughout the HB valley, largely as a
-result of beech bark disease and losses from mortality greatly exceed growth.
-However, on a stem density basis, recruitment exceeds mortality, partly
-reflecting prolific vegetative sprouting from roots (Siccama et al. 2007). Like
-sugar maple, red spruce is a population near steady state in the HB valley on
-both a biomass and stem density basis, despite clear evidence of its regional
-decline and susceptibility to damage resulting from soil base cation depletion
-by acid deposition (Adams et al. 1992). Finally, although red maple appears to
-be increasing in abundance throughout most of its range in eastern North America
-(Abrams 1998), this species shows no signs of expanding in the HB valley.
-Annual net change in aboveground biomass of 19 tree species across the entire
-Hubbard Brook Valley in first decade of 21st century. Error bars indicate 95%
-confidence intervals and numbers in parentheses are importance values.
+At higher elevations, conifer dominated forests prevail with two distinct types: a spruce-fir-birch type and a fir-birch type ( paper birch died out of the latter types during the early 21st century – see below). Early-successional forest stands are found on four small watersheds (WS2, 4, 5, 101) that were harvested experimentally between 1966 and 1984. On a valley-wide basis (van Doorn et al. 2011), three tree species have exhibited declining biomass in recent years (yellow birch, American beech and paper birch) while five species have been increasing (sugar maple, red spruce, balsam fir, hemlock and white ash). The decline of American beech is a consequence of an introduced disease complex (Houston 1975); similar changes are anticipated in the near future for hemlock and white ash (see below).Trends in forest structure and composition are indicated by the key population parameters of mortality, growth and reproduction. Live tree biomass of the HB forest has been nearly constant in recent years, as losses in biomass owing to tree mortality (28.5 Mg/ha) have been balanced by gains from growth of surviving trees (24.2 Mg/ha) and recruitment into the \> 10 cm dbh class (2.8 Mg/ha). Losses from mortality on both a biomass and stem density basis have been greatest for yellow birch, the most abundant species in the HB valley. This trend probably reflects the age-structure of the yellow birch population that consists of veteran trees that pre-date 19th century logging and many individuals that regenerated after early 20th century logging and the 1938 hurricane. On a stem density basis balsam fir also exhibited high mortality, but these losses have been more than counterbalanced by high recruitment (Figure 5); fir also showed the highest relative growth rate of all tree species at HB. Conversely, paper birch exhibited high mortality, low recruitment and the lowest growth rate of all tree species at the HBEF. This pattern signals a species in decline, reflecting in part senescence of a cohort originating from the large-scale disturbance in the early 20th century as well as possible stresses owing to ice storm damage and severe drought in recent years. The picture for paper birch is complicated by the fact that two species (B. papyrifera and B. cordifolia) comprise the surveyed population, and future work comparing their dynamics is needed. The population of sugar maple, the second most abundant species at HB, appears to be near equilibrium on a valley-wide basis, with recruitment matching mortality on a density basis and growth exceeding mortality on a live biomass basis (Figure 6). However, as discussed below, in some areas of the HB forest, especially in and around the experimental watersheds on the south facing slope (Figure 4) sugar maple is clearly declining with high mortality and low reproduction. Moreover, at the stage of development of the HB forest, we would expect the relative abundance of sugar maple to be increasing on a valley-wide basis. Hence, sugar maple seems to be suffering from unexpected decline at HB.American beech is also declining throughout the HB valley, largely as a result of beech bark disease and losses from mortality greatly exceed growth. However, on a stem density basis, recruitment exceeds mortality, partly reflecting prolific vegetative sprouting from roots (Siccama et al. 2007). Like sugar maple, red spruce is a population near steady state in the HB valley on both a biomass and stem density basis, despite clear evidence of its regional decline and susceptibility to damage resulting from soil base cation depletion by acid deposition (Adams et al. 1992). Finally, although red maple appears to be increasing in abundance throughout most of its range in eastern North America (Abrams 1998), this species shows no signs of expanding in the HB valley. Annual net change in aboveground biomass of 19 tree species across the entire Hubbard Brook Valley in first decade of 21st century. Error bars indicate 95% confidence intervals and numbers in parentheses are importance values.
 
 Figure 6. Annual net change in aboveground biomass of 19 tree species across the entire Hubbard Brook Valley in first decade of 21st century. Error bars indicate 95% confidence intervals and numbers in parentheses are importance values.
 
-Forest composition and its trends differ considerably between the south-facing
-experimental watersheds and the larger Hubbard Brook Valley. The relative
-dominance of sugar maple has been steadily declining on W6 since the 1980s
-(Figure 6-2). The fact that calcium remediation on W1 reversed this decline
-clearly implicates acid rain in this decline. Conversely, the relative dominance
-of American beech steadily increased until recently, reflecting in part reduced
-competition from sugar maple. The role of beech bark disease in mediating these
-patterns is complex, as explained in detail in chapter The Trouble with Beech.
-Note also that yellow birch is much less abundant in the experimental watersheds
-than the larger valley and shows no clear sign of decline, even most recently
-increasing on W6 perhaps responding to maple decline.
-Thirty years of change in the relative dominance (proportion of total basal
-area) for three dominant tree species on reference watershed 6 and Ca-treated W1
-based on 5-year surveys of all stems on the watershed. Error bars indicate 95%
-confidence intervals.
+Forest composition and its trends differ considerably between the south-facing experimental watersheds and the larger Hubbard Brook Valley. The relative dominance of sugar maple has been steadily declining on W6 since the 1980s (Figure 6-2). The fact that calcium remediation on W1 reversed this decline clearly implicates acid rain in this decline. Conversely, the relative dominance of American beech steadily increased until recently, reflecting in part reduced competition from sugar maple. The role of beech bark disease in mediating these patterns is complex, as explained in detail in chapter The Trouble with Beech. Note also that yellow birch is much less abundant in the experimental watersheds than the larger valley and shows no clear sign of decline, even most recently increasing on W6 perhaps responding to maple decline. Thirty years of change in the relative dominance (proportion of total basal area) for three dominant tree species on reference watershed 6 and Ca-treated W1 based on 5-year surveys of all stems on the watershed. Error bars indicate 95% confidence intervals.
 
 Figure 6-2. Thirty years of change in the relative dominance (proportion of total basal area) for three dominant tree species on reference watershed 6 and Ca-treated W1 based on 5-year surveys of all stems on the watershed. Error bars indicate 95% confidence intervals.
 
 ## Tree Reproduction Ecology
 
-The regeneration cycle of forest trees includes seed production and dispersal;
-seed dormancy, germination and establishment; understory tolerance and release
-and; vegetative reproduction. Most of these features are quite well understood
-in general for the dominant tree species in the HB valley. Pulsed seed
-production is observed for most trees, as illustrated for two of the three
-dominant trees at HB, sugar maple and American beech (Figure 7). This behavior
-is interpreted as so-called “masting” for large-seeded species like beech,
-selected to satiate the mammalian seed predators that also serve as dispersal
-agents. The reasons for pulsed seed production of a tiny-seeded species like
-yellow birch is not conclusively known but could include greater efficiency of
-pollination.Dispersal limitation of HB tree species varies with the dispersal
-mechanism and typical dispersal distance of their seeds. At one extreme, the
-tiny, wind-dispersed seeds of birches exhibit little dispersal limitation in
-their spatial pattern (Schwarz et al. 2003). In contrast, dispersal distance of
-beech seeds that rely on small mammals is usually limited to a few tens of
-meters, explaining the species limited regeneration by seed after large-scale
-disturbance (e.g., logging of WS2 and WS5 at HB; Hughes and Fahey 1988). The
-importance of “safe-sites” for germination and establishment also varies with
-seed size, with tiny-seeded birches being restricted to exposed mineral soil or
-decaying logs where moisture retention is sufficient. Even on so-called safe
-sites, most germinants of all species soon die, often from damage by fungal
-pathogens and invertebrates such as slugs and insects (Cleavitt et al. 2011).
-However, it only takes a small percentage of survivors to maintain a bank of
-seedlings in the forest understory (Marks and Gardescu 1998), poised to take
-advantage of any disturbance to the canopy trees that will release them from
-severe competition and resource limitation.
+The regeneration cycle of forest trees includes seed production and dispersal; seed dormancy, germination and establishment; understory tolerance and release and; vegetative reproduction. Most of these features are quite well understood in general for the dominant tree species in the HB valley. Pulsed seed production is observed for most trees, as illustrated for two of the three dominant trees at HB, sugar maple and American beech (Figure 7). This behavior is interpreted as so-called “masting” for large-seeded species like beech, selected to satiate the mammalian seed predators that also serve as dispersal agents. The reasons for pulsed seed production of a tiny-seeded species like yellow birch is not conclusively known but could include greater efficiency of pollination.Dispersal limitation of HB tree species varies with the dispersal mechanism and typical dispersal distance of their seeds. At one extreme, the tiny, wind-dispersed seeds of birches exhibit little dispersal limitation in their spatial pattern (Schwarz et al. 2003). In contrast, dispersal distance of beech seeds that rely on small mammals is usually limited to a few tens of meters, explaining the species limited regeneration by seed after large-scale disturbance (e.g., logging of WS2 and WS5 at HB; Hughes and Fahey 1988). The importance of “safe-sites” for germination and establishment also varies with seed size, with tiny-seeded birches being restricted to exposed mineral soil or decaying logs where moisture retention is sufficient. Even on so-called safe sites, most germinants of all species soon die, often from damage by fungal pathogens and invertebrates such as slugs and insects (Cleavitt et al. 2011). However, it only takes a small percentage of survivors to maintain a bank of seedlings in the forest understory (Marks and Gardescu 1998), poised to take advantage of any disturbance to the canopy trees that will release them from severe competition and resource limitation.
 
 ::: {#fig-data-portal}
 <iframe src="https://hubbardbrook.github.io/ForestComposition_Dynamics/fig7_ACSA_FAGR_seeds.html" width="100%" height="600" style="border: none;">
 
 </iframe>
 
-Seed production for sugar maple (ASCA) and American beech (FAGR) at Hubbard
-Brook Experimental Forest, NH from 1993-2016. A-B: Bars show the annual mean for
-all collectors and asterisks denote mast years. The long-term mean is shown by a
-solid line. C-D: The standardized deviation of annual seed production from the
-long-term means (ASD). The dotted line shows the positive reflection of the
-minimum standardized deviate used to denote mast years as indicated in A. These
-data were first published in Cleavitt and Fahey (2017). This figure is updated
-with current data available in the Environmental Data Initiative Repository
-(Fahey, T. and N. Cleavitt. 2025. Tree Seed Data at the Hubbard Brook
-Experimental Forest, 1993 - ongoing ver 4. Environmental Data Initiative.
-https://doi.org/10.6073/pasta/19e69d787124d60ccdfede1b5b813061). Hover over
-graph to access interactive controls available at the top right (zoom/pan/etc).
+Seed production for sugar maple (ASCA) and American beech (FAGR) at Hubbard Brook Experimental Forest, NH from 1993-2016. A-B: Bars show the annual mean for all collectors and asterisks denote mast years. The long-term mean is shown by a solid line. C-D: The standardized deviation of annual seed production from the long-term means (ASD). The dotted line shows the positive reflection of the minimum standardized deviate used to denote mast years as indicated in A. These data were first published in Cleavitt and Fahey (2017). This figure is updated with current data available in the Environmental Data Initiative Repository (Fahey, T. and N. Cleavitt. 2025. Tree Seed Data at the Hubbard Brook Experimental Forest, 1993 - ongoing ver 4. Environmental Data Initiative. https://doi.org/10.6073/pasta/19e69d787124d60ccdfede1b5b813061). Hover over graph to access interactive controls available at the top right (zoom/pan/etc).
 :::
 
 A particularly intriguing regeneration strategy is exhibited by pin cherry, as studied in detail at HB (Marks 1974, Thurston et al. 1992). The seeds of this extremely shade-intolerant species can remain viable in a dormant seed bank in the soil for many decades. Pin cherry only germinates when a large canopy opening has occurred creating a change in enviromental conditions such as high light, soil temperature fluctuation and changes in soil nitrate. The seedlings grow very quickly in this high resource environment and soon begin flowering and fruiting, replenishing the seed bank. At HB the density of pin cherry in the seed bank apparently grew exponentially in response to the repeated disturbances in the late 19th and 20th century (Tierney and Fahey 1998).
