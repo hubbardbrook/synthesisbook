@@ -6,10 +6,13 @@ book:
   chapters:
     - index.qmd
     - SiteHistory.qmd
-    - CompositionDynamics.qmd
+    #- ClimateChange.qmd
+    #- CompositionDynamics.qmd
+    #- BiomassProductivity.qmd
   sidebar:
     style: docked
     collapse-level: 2
+  search: false  
 
 format:
   html:
@@ -18,3 +21,5 @@ format:
     toc: true
     toc-title: "Chapter Sections"
     include-before-body: includes/banner.html
+    
+from: markdown+raw_html

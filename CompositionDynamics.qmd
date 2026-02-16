@@ -2,15 +2,61 @@
 title: "Forest Composition and Dynamics"
 ---
 
-Chapter Editor(s): John Battles Historical Overview
+Chapter Editor(s): John Battles
+
+## Historical Overview
 
 Figure 1. Pollen accumulation rates for pollen types in Mirror Lake (Davis 1985).
 
-As originally conceived by Bormann and Likens (1979), the Hubbard Brook landscape is dominated by northern hardwood forest which consists of a patchwork of stands of varying structure and composition that shifts through time, the “shifting-mosaic steady state.” The forest is dominated by three broadleaf deciduous tree species, sugar maple, yellow birch and American beech, with a mixture of several deciduous and evergreen conifer species. Above about 800 meters in the HB valley, subalpine forest of red spruce and balsam fir (and formerly mountain paper birch) is dominant, especially on thinner, less fertile soils.
+As originally conceived by Bormann and Likens (1979), the Hubbard Brook
+landscape is dominated by northern hardwood forest which consists of a patchwork
+of stands of varying structure and composition that shifts through time, the
+“shifting-mosaic steady state.” The forest is dominated by three broadleaf
+deciduous tree species, sugar maple, yellow birch and American beech, with a
+mixture of several deciduous and evergreen conifer species. Above about 800
+meters in the HB valley, subalpine forest of red spruce and balsam fir (and
+formerly mountain paper birch) is dominant, especially on thinner, less fertile
+soils.
 
-The composition of the forest at Hubbard Brook has seen periods of relative stability interspersed with shifts owing to a variety of forces. These include climatic changes, natural disturbances such as pests and pathogens, and most recently human activity, especially logging in the 19th and 20th century. The Holocene forest vegetation history of the Hubbard Brook area has been reconstructed on the basis of sediment coring of Mirror Lake, located near the valley outlet (Figure 1; Davis 1985).
-
-The area was deglaciated between 13-14,000 yr BP, and the climate soon warmed to resemble the modern climate. Spruce was the first tree species to invade post-glacial tundra around Mirror Lake and pollen data suggest that it spread widely through the HB valley by 11,000 yr BP. Fir, birch and Populus increased about 1,000 years later and spruce abundance subsequently declined. Thereafter, pine and oak became more abundant suggestive of a warmer climate 9-8,000 yr BP. By 7,000 yr BP, abundance of fir, pine and oak declined, while maple, beech and hemlock increased. Hemlock exhibited a sudden decline at about 5,000 yr BP that has been ascribed to an insect or pathogen, (but see Foster et al. 2006), and it then gradually recovered over a 1,000 year period. With that notable exception, and a resurgence in spruce abundance beginning about 2,000 yr BP, the forest composition in the HB valley was fairly stable after 6,000 yr BP until the arrival of Europeans in the 19th century. At the time of European settlement, the composition of the northern hardwood forest in the HB valley was comparable to the modern forest, being dominated by yellow birch, sugar maple and American beech; however, based on historical records (Chittenden 1905) red spruce was more abundant and sugar maple less so in the pre-settlement forests of the White Mountains. Spruce was selectively logged from the HB valley in the late 19th century, reducing its abundance thereafter. Much of the HB valley was subsequently heavily logged during the first two decades of the 20thcentury and most of the modern forest stands date from this time period. An exceptional hurricane disturbance in 1938 blew down extensive areas of the south and east facing slopes and salvage logging following this event further opened the residual forest. Notably, the 1938 hurricane caused much less damage to younger stands that arose following early 20th century logging than older lightly cut areas of the forest (Peart et al. 1992). In summary, the modern forest in the HB valley exhibits a complex age and size structure that varies spatially as a result of these historical large-scale disturbance events. However, despite this anthropogenic disturbance history the current structure and composition of the HB forest is similar to that of a virgin remnant forest at the Bowl Research National Area located about 30 km east of HB (Figure 2, 3; Schwarz et al. 2001, Martin and Bailey 1999).
+The composition of the forest at Hubbard Brook has seen periods of relative
+stability interspersed with shifts owing to a variety of forces. These include
+climatic changes, natural disturbances such as pests and pathogens, and most
+recently human activity, especially logging in the 19th and 20th century. The
+Holocene forest vegetation history of the Hubbard Brook area has been
+reconstructed on the basis of sediment coring of Mirror Lake, located near the
+valley outlet (Figure 1; Davis 1985).
+The area was deglaciated between 13-14,000 yr BP, and the climate soon warmed to
+resemble the modern climate. Spruce was the first tree species to invade
+post-glacial tundra around Mirror Lake and pollen data suggest that it spread
+widely through the HB valley by 11,000 yr BP. Fir, birch and Populus increased
+about 1,000 years later and spruce abundance subsequently declined. Thereafter,
+pine and oak became more abundant suggestive of a warmer climate 9-8,000 yr BP.
+By 7,000 yr BP, abundance of fir, pine and oak declined, while maple, beech and
+hemlock increased. Hemlock exhibited a sudden decline at about 5,000 yr BP that
+has been ascribed to an insect or pathogen, (but see Foster et al. 2006), and it
+then gradually recovered over a 1,000 year period. With that notable exception,
+and a resurgence in spruce abundance beginning about 2,000 yr BP, the forest
+composition in the HB valley was fairly stable after 6,000 yr BP until the
+arrival of Europeans in the 19th century. At the time of European settlement,
+the composition of the northern hardwood forest in the HB valley was comparable
+to the modern forest, being dominated by yellow birch, sugar maple and American
+beech; however, based on historical records (Chittenden 1905) red spruce was
+more abundant and sugar maple less so in the pre-settlement forests of the White
+Mountains. Spruce was selectively logged from the HB valley in the late 19th
+century, reducing its abundance thereafter. Much of the HB valley was
+subsequently heavily logged during the first two decades of the 20thcentury and
+most of the modern forest stands date from this time period. An exceptional
+hurricane disturbance in 1938 blew down extensive areas of the south and east
+facing slopes and salvage logging following this event further opened the
+residual forest. Notably, the 1938 hurricane caused much less damage to younger
+stands that arose following early 20th century logging than older lightly cut
+areas of the forest (Peart et al. 1992). In summary, the modern forest in the HB
+valley exhibits a complex age and size structure that varies spatially as a
+result of these historical large-scale disturbance events. However, despite this
+anthropogenic disturbance history the current structure and composition of the
+HB forest is similar to that of a virgin remnant forest at the Bowl Research
+National Area located about 30 km east of HB (Figure 2, 3; Schwarz et al. 2001,
+Martin and Bailey 1999).
 
 Figure 2. Size-class distribution of tree stems in old-growth (Bowl) and second-growth northern hardwood forests (Schwarz et al. 2001).
 
@@ -20,11 +66,21 @@ Figure 3. Basal area and density of tree species in virgin (Bowl) and secondary 
 
 Figure 3. Basal area and density of tree species in virgin (Bowl) and secondary forests (HBEF, W6) in the mid-1990s (Schwarz et al. 2001).
 
-Modern Forest
+## Modern Forest
 
-A detailed picture of the current structure and composition of the second-growth forest at HB is provided on the basis of a valley-wide grid of 431 permanent plots. Overall, the size structure of the forest exhibits the usual “reverse-j” shaped curve typical of mature forests composed mostly of shade-tolerant species (Figure 2). Notably, sugar maple and beech are considerably more abundant and yellow birch and conifers less abundant in south-facing reference WS6 than for the entire HB valley.
+A detailed picture of the current structure and composition of the second-growth
+forest at HB is provided on the basis of a valley-wide grid of 431 permanent
+plots. Overall, the size structure of the forest exhibits the usual “reverse-j”
+shaped curve typical of mature forests composed mostly of shade-tolerant species
+(Figure 2). Notably, sugar maple and beech are considerably more abundant and
+yellow birch and conifers less abundant in south-facing reference WS6 than for
+the entire HB valley.
 
-Five principal forest vegetation types are distinguished within the HBEF (Figure 4) including the core northern hardwood forest; a hemlock-hardwood type, restricted to the lower valley and; a high-elevation hardwood type, marked by the increased dominance of yellow birch relative to beech, the relative scarcity of sugar maple, and the inclusion of red spruce as a common species.
+Five principal forest vegetation types are distinguished within the HBEF (Figure
+4) including the core northern hardwood forest; a hemlock-hardwood type,
+restricted to the lower valley and; a high-elevation hardwood type, marked by
+the increased dominance of yellow birch relative to beech, the relative scarcity
+of sugar maple, and the inclusion of red spruce as a common species.
 
 Figure 4. Forest vegetation types in the Hubbard Brook Valley (Battles, unpublished data).
 
@@ -34,31 +90,134 @@ Figure 5. Demographic factors of dominant tree species in the Hubbard Brook Vall
 
 Figure 5. Demographic factors of dominant tree species in the Hubbard Brook Valley at the turn of the 21st century (van Doorn et al., 2011).
 
-At higher elevations, conifer dominated forests prevail with two distinct types: a spruce-fir-birch type and a fir-birch type ( paper birch died out of the latter types during the early 21st century – see below). Early-successional forest stands are found on four small watersheds (WS2, 4, 5, 101) that were harvested experimentally between 1966 and 1984. On a valley-wide basis (van Doorn et al. 2011), three tree species have exhibited declining biomass in recent years (yellow birch, American beech and paper birch) while five species have been increasing (sugar maple, red spruce, balsam fir, hemlock and white ash). The decline of American beech is a consequence of an introduced disease complex (Houston 1975); similar changes are anticipated in the near future for hemlock and white ash (see below).Trends in forest structure and composition are indicated by the key population parameters of mortality, growth and reproduction. Live tree biomass of the HB forest has been nearly constant in recent years, as losses in biomass owing to tree mortality (28.5 Mg/ha) have been balanced by gains from growth of surviving trees (24.2 Mg/ha) and recruitment into the \> 10 cm dbh class (2.8 Mg/ha). Losses from mortality on both a biomass and stem density basis have been greatest for yellow birch, the most abundant species in the HB valley. This trend probably reflects the age-structure of the yellow birch population that consists of veteran trees that pre-date 19th century logging and many individuals that regenerated after early 20th century logging and the 1938 hurricane. On a stem density basis balsam fir also exhibited high mortality, but these losses have been more than counterbalanced by high recruitment (Figure 5); fir also showed the highest relative growth rate of all tree species at HB.
-
-Conversely, paper birch exhibited high mortality, low recruitment and the lowest growth rate of all tree species at the HBEF. This pattern signals a species in decline, reflecting in part senescence of a cohort originating from the large-scale disturbance in the early 20th century as well as possible stresses owing to ice storm damage and severe drought in recent years. The picture for paper birch is complicated by the fact that two species (B. papyrifera and B. cordifolia) comprise the surveyed population, and future work comparing their dynamics is needed.
-
-The population of sugar maple, the second most abundant species at HB, appears to be near equilibrium on a valley-wide basis, with recruitment matching mortality on a density basis and growth exceeding mortality on a live biomass basis (Figure 6). However, as discussed below, in some areas of the HB forest, especially in and around the experimental watersheds on the south facing slope (Figure 4) sugar maple is clearly declining with high mortality and low reproduction. Moreover, at the stage of development of the HB forest, we would expect the relative abundance of sugar maple to be increasing on a valley-wide basis. Hence, sugar maple seems to be suffering from unexpected decline at HB.American beech is also declining throughout the HB valley, largely as a result of beech bark disease and losses from mortality greatly exceed growth. However, on a stem density basis, recruitment exceeds mortality, partly reflecting prolific vegetative sprouting from roots (Siccama et al. 2007). Like sugar maple, red spruce is a population near steady state in the HB valley on both a biomass and stem density basis, despite clear evidence of its regional decline and susceptibility to damage resulting from soil base cation depletion by acid deposition (Adams et al. 1992). Finally, although red maple appears to be increasing in abundance throughout most of its range in eastern North America (Abrams 1998), this species shows no signs of expanding in the HB valley.
-
-Annual net change in aboveground biomass of 19 tree species across the entire Hubbard Brook Valley in first decade of 21st century. Error bars indicate 95% confidence intervals and numbers in parentheses are importance values.
+At higher elevations, conifer dominated forests prevail with two distinct types:
+a spruce-fir-birch type and a fir-birch type ( paper birch died out of the
+latter types during the early 21st century – see below). Early-successional
+forest stands are found on four small watersheds (WS2, 4, 5, 101) that were
+harvested experimentally between 1966 and 1984. On a valley-wide basis (van
+Doorn et al. 2011), three tree species have exhibited declining biomass in
+recent years (yellow birch, American beech and paper birch) while five species
+have been increasing (sugar maple, red spruce, balsam fir, hemlock and white
+ash). The decline of American beech is a consequence of an introduced disease
+complex (Houston 1975); similar changes are anticipated in the near future for
+hemlock and white ash (see below).Trends in forest structure and composition are
+indicated by the key population parameters of mortality, growth and
+reproduction. Live tree biomass of the HB forest has been nearly constant in
+recent years, as losses in biomass owing to tree mortality (28.5 Mg/ha) have
+been balanced by gains from growth of surviving trees (24.2 Mg/ha) and
+recruitment into the \> 10 cm dbh class (2.8 Mg/ha). Losses from mortality on
+both a biomass and stem density basis have been greatest for yellow birch, the
+most abundant species in the HB valley. This trend probably reflects the
+age-structure of the yellow birch population that consists of veteran trees that
+pre-date 19th century logging and many individuals that regenerated after early
+20th century logging and the 1938 hurricane. On a stem density basis balsam fir
+also exhibited high mortality, but these losses have been more than
+counterbalanced by high recruitment (Figure 5); fir also showed the highest
+relative growth rate of all tree species at HB.
+Conversely, paper birch exhibited high mortality, low recruitment and the lowest
+growth rate of all tree species at the HBEF. This pattern signals a species in
+decline, reflecting in part senescence of a cohort originating from the
+large-scale disturbance in the early 20th century as well as possible stresses
+owing to ice storm damage and severe drought in recent years. The picture for
+paper birch is complicated by the fact that two species (B. papyrifera and B.
+cordifolia) comprise the surveyed population, and future work comparing their
+dynamics is needed.
+The population of sugar maple, the second most abundant species at HB, appears
+to be near equilibrium on a valley-wide basis, with recruitment matching
+mortality on a density basis and growth exceeding mortality on a live biomass
+basis (Figure 6). However, as discussed below, in some areas of the HB forest,
+especially in and around the experimental watersheds on the south facing slope
+(Figure 4) sugar maple is clearly declining with high mortality and low
+reproduction. Moreover, at the stage of development of the HB forest, we would
+expect the relative abundance of sugar maple to be increasing on a valley-wide
+basis. Hence, sugar maple seems to be suffering from unexpected decline at
+HB.American beech is also declining throughout the HB valley, largely as a
+result of beech bark disease and losses from mortality greatly exceed growth.
+However, on a stem density basis, recruitment exceeds mortality, partly
+reflecting prolific vegetative sprouting from roots (Siccama et al. 2007). Like
+sugar maple, red spruce is a population near steady state in the HB valley on
+both a biomass and stem density basis, despite clear evidence of its regional
+decline and susceptibility to damage resulting from soil base cation depletion
+by acid deposition (Adams et al. 1992). Finally, although red maple appears to
+be increasing in abundance throughout most of its range in eastern North America
+(Abrams 1998), this species shows no signs of expanding in the HB valley.
+Annual net change in aboveground biomass of 19 tree species across the entire
+Hubbard Brook Valley in first decade of 21st century. Error bars indicate 95%
+confidence intervals and numbers in parentheses are importance values.
 
 Figure 6. Annual net change in aboveground biomass of 19 tree species across the entire Hubbard Brook Valley in first decade of 21st century. Error bars indicate 95% confidence intervals and numbers in parentheses are importance values.
 
-Forest composition and its trends differ considerably between the south-facing experimental watersheds and the larger Hubbard Brook Valley. The relative dominance of sugar maple has been steadily declining on W6 since the 1980s (Figure 6-2). The fact that calcium remediation on W1 reversed this decline clearly implicates acid rain in this decline. Conversely, the relative dominance of American beech steadily increased until recently, reflecting in part reduced competition from sugar maple. The role of beech bark disease in mediating these patterns is complex, as explained in detail in chapter The Trouble with Beech. Note also that yellow birch is much less abundant in the experimental watersheds than the larger valley and shows no clear sign of decline, even most recently increasing on W6 perhaps responding to maple decline.
-
-Thirty years of change in the relative dominance (proportion of total basal area) for three dominant tree species on reference watershed 6 and Ca-treated W1 based on 5-year surveys of all stems on the watershed. Error bars indicate 95% confidence intervals.
+Forest composition and its trends differ considerably between the south-facing
+experimental watersheds and the larger Hubbard Brook Valley. The relative
+dominance of sugar maple has been steadily declining on W6 since the 1980s
+(Figure 6-2). The fact that calcium remediation on W1 reversed this decline
+clearly implicates acid rain in this decline. Conversely, the relative dominance
+of American beech steadily increased until recently, reflecting in part reduced
+competition from sugar maple. The role of beech bark disease in mediating these
+patterns is complex, as explained in detail in chapter The Trouble with Beech.
+Note also that yellow birch is much less abundant in the experimental watersheds
+than the larger valley and shows no clear sign of decline, even most recently
+increasing on W6 perhaps responding to maple decline.
+Thirty years of change in the relative dominance (proportion of total basal
+area) for three dominant tree species on reference watershed 6 and Ca-treated W1
+based on 5-year surveys of all stems on the watershed. Error bars indicate 95%
+confidence intervals.
 
 Figure 6-2. Thirty years of change in the relative dominance (proportion of total basal area) for three dominant tree species on reference watershed 6 and Ca-treated W1 based on 5-year surveys of all stems on the watershed. Error bars indicate 95% confidence intervals.
 
-Tree Reproduction Ecology
+## Tree Reproduction Ecology
 
-The regeneration cycle of forest trees includes seed production and dispersal; seed dormancy, germination and establishment; understory tolerance and release and; vegetative reproduction. Most of these features are quite well understood in general for the dominant tree species in the HB valley. Pulsed seed production is observed for most trees, as illustrated for two of the three dominant trees at HB, sugar maple and American beech (Figure 7). This behavior is interpreted as so-called “masting” for large-seeded species like beech, selected to satiate the mammalian seed predators that also serve as dispersal agents. The reasons for pulsed seed production of a tiny-seeded species like yellow birch is not conclusively known but could include greater efficiency of pollination.Dispersal limitation of HB tree species varies with the dispersal mechanism and typical dispersal distance of their seeds. At one extreme, the tiny, wind-dispersed seeds of birches exhibit little dispersal limitation in their spatial pattern (Schwarz et al. 2003). In contrast, dispersal distance of beech seeds that rely on small mammals is usually limited to a few tens of meters, explaining the species limited regeneration by seed after large-scale disturbance (e.g., logging of WS2 and WS5 at HB; Hughes and Fahey 1988). The importance of “safe-sites” for germination and establishment also varies with seed size, with tiny-seeded birches being restricted to exposed mineral soil or decaying logs where moisture retention is sufficient. Even on so-called safe sites, most germinants of all species soon die, often from damage by fungal pathogens and invertebrates such as slugs and insects (Cleavitt et al. 2011). However, it only takes a small percentage of survivors to maintain a bank of seedlings in the forest understory (Marks and Gardescu 1998), poised to take advantage of any disturbance to the canopy trees that will release them from severe competition and resource limitation.
+The regeneration cycle of forest trees includes seed production and dispersal;
+seed dormancy, germination and establishment; understory tolerance and release
+and; vegetative reproduction. Most of these features are quite well understood
+in general for the dominant tree species in the HB valley. Pulsed seed
+production is observed for most trees, as illustrated for two of the three
+dominant trees at HB, sugar maple and American beech (Figure 7). This behavior
+is interpreted as so-called “masting” for large-seeded species like beech,
+selected to satiate the mammalian seed predators that also serve as dispersal
+agents. The reasons for pulsed seed production of a tiny-seeded species like
+yellow birch is not conclusively known but could include greater efficiency of
+pollination.Dispersal limitation of HB tree species varies with the dispersal
+mechanism and typical dispersal distance of their seeds. At one extreme, the
+tiny, wind-dispersed seeds of birches exhibit little dispersal limitation in
+their spatial pattern (Schwarz et al. 2003). In contrast, dispersal distance of
+beech seeds that rely on small mammals is usually limited to a few tens of
+meters, explaining the species limited regeneration by seed after large-scale
+disturbance (e.g., logging of WS2 and WS5 at HB; Hughes and Fahey 1988). The
+importance of “safe-sites” for germination and establishment also varies with
+seed size, with tiny-seeded birches being restricted to exposed mineral soil or
+decaying logs where moisture retention is sufficient. Even on so-called safe
+sites, most germinants of all species soon die, often from damage by fungal
+pathogens and invertebrates such as slugs and insects (Cleavitt et al. 2011).
+However, it only takes a small percentage of survivors to maintain a bank of
+seedlings in the forest understory (Marks and Gardescu 1998), poised to take
+advantage of any disturbance to the canopy trees that will release them from
+severe competition and resource limitation.
+
+::: {#fig-data-portal}
+<iframe src="https://hubbardbrook.github.io/ForestComposition_Dynamics/fig7_ACSA_FAGR_seeds.html" width="100%" height="600" style="border: none;">
+
+</iframe>
+
+Seed production for sugar maple (ASCA) and American beech (FAGR) at Hubbard
+Brook Experimental Forest, NH from 1993-2016. A-B: Bars show the annual mean for
+all collectors and asterisks denote mast years. The long-term mean is shown by a
+solid line. C-D: The standardized deviation of annual seed production from the
+long-term means (ASD). The dotted line shows the positive reflection of the
+minimum standardized deviate used to denote mast years as indicated in A. These
+data were first published in Cleavitt and Fahey (2017). This figure is updated
+with current data available in the Environmental Data Initiative Repository
+(Fahey, T. and N. Cleavitt. 2025. Tree Seed Data at the Hubbard Brook
+Experimental Forest, 1993 - ongoing ver 4. Environmental Data Initiative.
+https://doi.org/10.6073/pasta/19e69d787124d60ccdfede1b5b813061). Hover over
+graph to access interactive controls available at the top right (zoom/pan/etc).
+:::
 
 A particularly intriguing regeneration strategy is exhibited by pin cherry, as studied in detail at HB (Marks 1974, Thurston et al. 1992). The seeds of this extremely shade-intolerant species can remain viable in a dormant seed bank in the soil for many decades. Pin cherry only germinates when a large canopy opening has occurred creating a change in enviromental conditions such as high light, soil temperature fluctuation and changes in soil nitrate. The seedlings grow very quickly in this high resource environment and soon begin flowering and fruiting, replenishing the seed bank. At HB the density of pin cherry in the seed bank apparently grew exponentially in response to the repeated disturbances in the late 19th and 20th century (Tierney and Fahey 1998).
 
-Figure 7. Seed production for sugar maple (ASCA) and American beech (FAGR) at Hubbard Brook Experimental Forest, NH from 1993-2016. A-B: Bars show the annual mean for all collectors and asterisks denote mast years. The long-term mean is shown by a solid line. C-D: The standardized deviation of annual seed production from the long-term means (ASD). The dotted line shows the positive reflection of the minimum standardized deviate used to denote mast years as indicated in A. These data were first published in Cleavitt and Fahey (2017). This figure is updated with current data available in the Environmental Data Initiative Repository (Fahey, T. and N. Cleavitt. 2025. Tree Seed Data at the Hubbard Brook Experimental Forest, 1993 - ongoing ver 4. Environmental Data Initiative. https://doi.org/10.6073/pasta/19e69d787124d60ccdfede1b5b813061). Hover over graph to access interactive controls available at the top right (zoom/pan/etc).
+All the deciduous trees in the HB forest are capable of vegetative reproduction by basal sprouting and some also by root sprouting (beech, aspen) and stem layering (striped maple). None of the conifers exhibit vegetative sprouting, although at higher elevations stem layering occurs in balsam fir. In theory, the role of vegetative reproduction is to allow a species to persist at a location when dispersal and genetic recombination are not possible. The competitive interaction between seedlings and sprouters varies depending upon species, site and canopy disturbance. At HB, American beech root sprouting is of particular interest: it reproduces mostly by root sprouting at higher elevations at HB, but seed reproduction is common on more favorable sites (Cleavitt et al. 2008). Root sprouting is stimulated by damage to mother trees and their root systems (Jones and Raynal 1987) and prolific sprouting (“beech hell”) is observed across the HB valley. Some evidence suggests that this process has contributed to limited regeneration of sugar maple (Hane 2003).
 
-All the deciduous trees in the HB forest are capable of vegetative reproduction by basal sprouting and some also by root sprouting (beech, aspen) and stem layering (striped maple). None of the conifers exhibit vegetative sprouting, although at higher elevations stem layering occurs in balsam fir. In theory, the role of vegetative reproduction is to allow a species to persist at a location when dispersal and genetic recombination are not possible. The competitive interaction between seedlings and sprouters varies depending upon species, site and canopy disturbance. At HB, American beech root sprouting is of particular interest: it reproduces mostly by root sprouting at higher elevations at HB, but seed reproduction is common on more favorable sites (Cleavitt et al. 2008). Root sprouting is stimulated by damage to mother trees and their root systems (Jones and Raynal 1987) and prolific sprouting (“beech hell”) is observed across the HB valley. Some evidence suggests that this process has contributed to limited regeneration of sugar maple (Hane 2003). Disturbance Ecology
+## Disturbance Ecology
 
 The northern hardwood-conifer forest is dominated by shade tolerant tree species (sugar maple, beech, spruce, fir, hemlock) that rely on advanced regeneration of seedlings that persists beneath the closed forest canopy and are able to supply recruits when death of individual or small groups of overstory trees provide canopy gaps. However, intolerant (paper birch) and mid-tolerant species (yellow birch, white ash, red maple) also are abundant in the mature forest. Unlike many other North American forest regions, natural fires are uncommon in the northern hardwood region, with point return intervals exceeding approximately 3,000 years (Lorimer and White 2003). Thus, the dynamics of shifting-mosaic steady state forest (Bormann and Likens 1979) depends on other causes of tree mortality. Based on the typical lifespans of the dominant species, in a forest where canopy recruits are derived primarily from death of individual trees through senescence, the point recurrence of canopy gaps would be a few hundred years. The prevalence of pit-and-mound micro-topography is suggestive of the important role of windstorms that causes tip-ups of large trees.
 
@@ -70,7 +229,9 @@ Figure 9. Tree damage from the January 1999 ice storm.
 
 Figure 9. Tree damage from the January 1999 ice storm.
 
-A variety of storms in the Northeast are capable of uprooting or snapping mature trees: hurricanes; extra-tropical cyclonic storms; tornadoes; and downbursts and other straight-line winds associated with thunderstorms that accompany strong cold fronts (Peterson 2000). Lorimer and White (2003) concluded that point recurrence of large disturbances from windstorms exceeded 1,000 years for inland Northeast, considerably longer than for coastal areas visited more frequently by Atlantic hurricanes. Nevertheless, these intense windstorms can create gaps exceeding 0.1 ha and certainly provided plenty of opportunities for maintaining populations of intolerant and mid-tolerant species, as indicated by the high abundance of yellow birch even in the virgin forests at the Bowl and in Adirondack old-growth forests (Martin and Bailey 1999). At HB the legacy of the 1938 hurricane, as well as a recent downburst that created several gaps exceeding 1.0 ha in area, in and near HB (Figure 8.), are emblematic of this role. In contrast, although a severe ice storm in 1998 caused widespread canopy damage at HB (Rhoads et al. 2002; Figure 9.), it provided only minimal regeneration and recruitment opportunities because resprouting in the damaged canopy returned the forest LAI to pre-disturbance levels within three years (Weeks et al. 2009). Thus, ice storms, as well as unusual tree mortality resulting from species-specific pests and pathogens, can be considered diffuse disturbances that do not create large, discrete canopy gaps favoring less shade tolerant species. However, anticipated mortality of hemlock due to hemlock wooly adelgid infestation (Eschtruth et al. 2013) can be expected to create many large openings because it forms some nearly pure stands in the lower HB valley (Figure 4). Human-Accelerated Environmental Change
+A variety of storms in the Northeast are capable of uprooting or snapping mature trees: hurricanes; extra-tropical cyclonic storms; tornadoes; and downbursts and other straight-line winds associated with thunderstorms that accompany strong cold fronts (Peterson 2000). Lorimer and White (2003) concluded that point recurrence of large disturbances from windstorms exceeded 1,000 years for inland Northeast, considerably longer than for coastal areas visited more frequently by Atlantic hurricanes. Nevertheless, these intense windstorms can create gaps exceeding 0.1 ha and certainly provided plenty of opportunities for maintaining populations of intolerant and mid-tolerant species, as indicated by the high abundance of yellow birch even in the virgin forests at the Bowl and in Adirondack old-growth forests (Martin and Bailey 1999). At HB the legacy of the 1938 hurricane, as well as a recent downburst that created several gaps exceeding 1.0 ha in area, in and near HB (Figure 8.), are emblematic of this role. In contrast, although a severe ice storm in 1998 caused widespread canopy damage at HB (Rhoads et al. 2002; Figure 9.), it provided only minimal regeneration and recruitment opportunities because resprouting in the damaged canopy returned the forest LAI to pre-disturbance levels within three years (Weeks et al. 2009). Thus, ice storms, as well as unusual tree mortality resulting from species-specific pests and pathogens, can be considered diffuse disturbances that do not create large, discrete canopy gaps favoring less shade tolerant species. However, anticipated mortality of hemlock due to hemlock wooly adelgid infestation (Eschtruth et al. 2013) can be expected to create many large openings because it forms some nearly pure stands in the lower HB valley (Figure 4).
+
+## Human-Accelerated Environmental Change
 
 Since the mid-20th century, the physical and biotic environment of the NE region has been rapidly changing. In particular, atmospheric CO2 concentration is increasing; the climate is getting warmer and wetter (see Climate Change chapter). Atmospheric deposition of sulfuric acid increased to a peak in the 1970s and has declined since (Driscoll et al. 2001); deposition of total nitrogen peaked at the turn of the century and has been declining recently (Lloret and Valiela, 2016) and several exotic pests and pathogens have or soon will invade the forest.
 
@@ -84,91 +245,87 @@ Figure 10. Seedling colonization by read oak (QURU) and white pine (PIST) into t
 
 Figure 10. Seedling colonization by read oak (QURU) and white pine (PIST) into the lower valley at Hubbard Brook Exerimental forest in 2015. (J. J. Battles, unpublished data).
 
-Questions for Further Study
+## Questions for Further Study
 
-```         
-How will forest composition and structure respond to continuing climate change, especially increasing air temperature and summer precipitation?
-What was the role of large-scale natural disturbances (vs. single-tree replacement) in shaping the composition and structure of pre-Industrial northern hardwoods forests
-What species will replace white ash and hemlock following expected mass mortality?
-What factors facilitate the colonization of white pine and red oak in the lower valley?
-What differences characterize the demography and distribution of paper birch and mountain paper birch, and how does their recent mass mortality affect the dynamics of associated species?
-How will the continuing declines of the three dominant species – yellow birch, sugar maple, American beech – affect the future composition and structure of the HB forest?
-In the long-term how will the restoration of ecosystem calcium affect forest composition on WS1?
-Will base cation depletion resulting from whole-tree harvest of WS5 have significant effects on forest composition?
-```
+-   How will forest composition and structure respond to continuing climate change, especially increasing air temperature and summer precipitation?
+-   What was the role of large-scale natural disturbances (vs. single-tree replacement) in shaping the composition and structure of pre-Industrial northern hardwoods forests
+-   What species will replace white ash and hemlock following expected mass mortality?
+-   What factors facilitate the colonization of white pine and red oak in the lower valley?
+-   What differences characterize the demography and distribution of paper birch and mountain paper birch, and how does their recent mass mortality affect the dynamics of associated species?
+-   How will the continuing declines of the three dominant species – yellow birch, sugar maple, American beech – affect the future composition and structure of the HB forest?
+-   In the long-term how will the restoration of ecosystem calcium affect forest composition on WS1?
+-   Will base cation depletion resulting from whole-tree harvest of WS5 have significant effects on forest composition?
 
-Access Data
+## Access Data
 
-```         
-Fahey, T. and N. Cleavitt. 2021. Tree Seed Data at the Hubbard Brook Experimental Forest, 1993 - present ver 2. Environmental Data Initiative. https://doi.org/10.6073/pasta/3d6b29aa80b150e5a9e28a839c05c211
-Battles, J.J., N. Cleavitt, and T. Fahey. 2022. Hubbard Brook Experimental Forest: Valleywide Plot Tree and Sapling Inventory – 1995, 2005, 2015 ver 6. Environmental Data Initiative. https://doi.org/10.6073/pasta/65b1f9e0111c189c68bc82083112fdeb
-Battles, J., N. Cleavitt, C. Johnson, S. Hamburg, T. Fahey, C. Driscoll, and G. Likens. 2019. Forest Inventory of a Northern Hardwood Forest: Watershed 6, 2017, Hubbard Brook Experimental Forest ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/0593ba15fb76a4f085797126a1bea3a7
-```
+-   Fahey, T. and N. Cleavitt. 2021. Tree Seed Data at the Hubbard Brook Experimental Forest, 1993 - present ver 2. Environmental Data Initiative. https://doi.org/10.6073/pasta/3d6b29aa80b150e5a9e28a839c05c211
+-   Battles, J.J., N. Cleavitt, and T. Fahey. 2022. Hubbard Brook Experimental Forest: Valleywide Plot Tree and Sapling Inventory – 1995, 2005, 2015 ver 6. Environmental Data Initiative. https://doi.org/10.6073/pasta/65b1f9e0111c189c68bc82083112fdeb
+-   Battles, J., N. Cleavitt, C. Johnson, S. Hamburg, T. Fahey, C. Driscoll, and G. Likens. 2019. Forest Inventory of a Northern Hardwood Forest: Watershed 6, 2017, Hubbard Brook Experimental Forest ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/0593ba15fb76a4f085797126a1bea3a7
 
-References
+## References
 
-Abrams, MD. 1998. The red maple paradox. BioScience 48:355-364.
+::: references
+<p>Abrams, M. D. (1998). The red maple paradox. <em>BioScience, 48</em>, 355–364. <a href="https://doi.org/10.2307/1313374">https://doi.org/10.2307/1313374</a></p>
 
-Eager, C. and M. B. Adams (Eds). 1992. Ecology and Decline of Red Spruce in the Eastern United States. Springer Verlag, 417pp.
+<p>Battles, J. J., Fahey, T. J., Driscoll, C. T., Blum, J. D., & Johnson, C. E. (2014). Restoring soil calcium reverses forest decline. <em>Environmental Science & Technology Letters, 1</em>(1), 15–19. <a href="https://doi.org/10.1021/ez400033d">https://doi.org/10.1021/ez400033d</a></p>
 
-Battles J. J., T. J. Fahey, C. T. Driscoll, J. D. Blum and C. E. Johnson. 2014. Restoring soil calcium reverses forest decline. Environmental Science and Technology Letters. 1(1): 15-19, doi:10.1021/ez400033d
+<p>Chittenden, A. K. (1905). <em>Forest conditions of northern New Hampshire</em> (USDA Bureau of Forestry Bulletin No. 55). U.S. Department of Agriculture. (No DOI)</p>
 
-Bormann, F. H. and G. E. Likens. 1979. Pattern and Process in a Forested Ecosystem. Springer-Verlag New York Inc. 253 pp.
+<p>Cleavitt, N. L., & Fahey, T. J. (2017). Seed production of sugar maple and American beech in northern hardwood forests, New Hampshire, USA. <em>Canadian Journal of Forest Research, 47</em>(7), 985–990. <a href="https://doi.org/10.1139/cjfr-2017-0096">https://doi.org/10.1139/cjfr-2017-0096</a></p>
 
-Chittenden, A. K. 1905. Forest conditions of northern New Hampshire. USDA Bureau of Forest Bulletin No. 55, 131 pp.
+<p>Cleavitt, N. L., Fahey, T. J., & Battles, J. J. (2011). Regeneration ecology of sugar maple (<em>Acer saccharum</em>): Seedling survival in relation to nutrition, site factors, and damage by insects and pathogens. <em>Canadian Journal of Forest Research, 41</em>(2), 235–244. <a href="https://doi.org/10.1139/x10-210">https://doi.org/10.1139/x10-210</a></p>
 
-Cleavitt, N. L. and T. Fahey. 2017. Seed production of sugar maple and American beech in northern hardwood forests, New Hampshire, USA. Canadian Journal of Forest Research 47(7): 985-990. doi:10.1139/cjfr-2017-0096
+<p>Cleavitt, N. L., Eschtruth, A. K., Battles, J. J., & Fahey, T. J. (2008). Bryophyte response to eastern hemlock decline caused by hemlock woolly adelgid infestation. <em>Journal of the Torrey Botanical Society, 135</em>(1), 12–25. <a href="https://doi.org/10.3159/07-RA-026R.1">https://doi.org/10.3159/07-RA-026R.1</a></p>
 
-Cleavitt, N. L., T. J. Fahey, and J. J. Battles. 2011. Regeneration ecology of sugar maple (Acer saccharum): Seedling survival in relation to nutrition, site factors, and damage by insects and pathogens. Canadian Journal of Forest Research-Revue Canadienne De Recherche Forestiere 41(2):235-244 doi:10.1139/x10-210
+<p>Davis, M. B. (1985). History of the vegetation of the Mirror Lake Watershed. In G. E. Likens (Ed.), <em>An ecosystem approach to aquatic ecology</em> (pp. 53–64). Springer. <a href="https://doi.org/10.1007/978-1-4612-4918-4_5">https://doi.org/10.1007/978-1-4612-4918-4_5</a></p>
 
-Cleavitt, N. L., A. K. Eschtruth, J. J. Battles, and T. J. Fahey. 2008. Bryophyte response to eastern hemlock decline caused by hemlock woolly adelgid infestation. The Journal of the Torrey Botanical Society 135(1):12-25.
+<p>Driscoll, C. T., Lawrence, G. B., Bulger, A. J., Butler, T. J., Cronan, C. S., Eagar, C., Lambert, K. F., Likens, G. E., Stoddard, J. L., & Weathers, K. C. (2001). Acid rain revisited: Advances in scientific understanding since the passage of the 1970 and 1990 Clean Air Act Amendments. Hubbard Brook Research Foundation, Science Links Publication 1(1). (No DOI)</p>
 
-Davis, M. B. 1985. History of the vegetation of the Mirror Lake Watershed. P. 53-64, In: Likens, G. E. (ed). An Ecosystem Approach to Aquatic Ecology. Springer-Verlag, New York.
+<p>Eagar, C., & Adams, M. B. (Eds.). (1992). <em>Ecology and decline of red spruce in the eastern United States</em>. Springer-Verlag. <a href="https://doi.org/10.1007/978-1-4612-2814-1">https://doi.org/10.1007/978-1-4612-2814-1</a></p>
 
-Driscoll, C. T., G. B. Lawrence,A. J. Bulger, T. J. Butler, C. S. Cronan, C. Eagar, K. F. Lambert, G. E. Likens, J. L. Stoddard and K. C. Weathers. 2001. Acid rain revisited: advances in scientific understanding since the passage of the 1970 and 1990 Clean Air Act Amendments. Hubbard Brook Research Foundation. Science Links Publication, 1(1).
+<p>Eschtruth, A. K., Evans, R. A., & Battles, J. J. (2013). Patterns and predictors of survival in <em>Tsuga canadensis</em> populations infested by the exotic pest <em>Adelges tsugae</em>: 20 years of monitoring. <em>Forest Ecology and Management, 305</em>, 195–203. <a href="https://doi.org/10.1016/j.foreco.2013.05.012">https://doi.org/10.1016/j.foreco.2013.05.012</a></p>
 
-Eschtruth, A. K., R. A. Evans and J. J. Battles. 2013. Patterns and predictors of survival in Tsuga canadensis populations infested by the exotic pest Adelges tsugae: 20 years of monitoring. Forest Ecology and Management 305:195-203.
+<p>Foster, D. R., Oswald, W. W., Faison, E. K., Doughty, E. D., & Hansen, B. C. S. (2006). A climatic driver for abrupt mid-Holocene vegetation dynamics and the hemlock decline in New England. <em>Ecology, 87</em>(12), 2959–2966. <a href="https://doi.org/10.1890/0012-9658(2006)87[2959:ACDFAM]2.0.CO;2">https://doi.org/10.1890/0012-9658(2006)87\[2959:ACDFAM\]2.0.CO;2</a></p>
 
-Foster D. R., W. W. Oswald, E. K. Faison, E. D. Doughty and B. C. S. Hansen. 2006. A climatic driver for abrupt mid-Holocene vegetation dynamics and the hemlock decline in New England. Ecology 87(12): 2959-2966.
+<p>Hane, E. N. (2003). Indirect effects of beech bark disease on sugar maple seedling survival. <em>Canadian Journal of Forest Research, 33</em>(5), 807–813. <a href="https://doi.org/10.1139/x03-005">https://doi.org/10.1139/x03-005</a></p>
 
-Hane, E. N. 2003. Indirect effects of beech bark disease on sugar maple seedling survival. Canadian Journal of Forest Research 33(5):807-813.
+<p>Hawley, G. J., Schaberg, P. G., Eagar, C., & Borer, C. H. (2006). Calcium addition at the Hubbard Brook Experimental Forest reduced winter injury to red spruce in a high-injury year. <em>Canadian Journal of Forest Research, 36</em>, 2544–2549. <a href="https://doi.org/10.1139/x06-158">https://doi.org/10.1139/x06-158</a></p>
 
-Hawley, G. J., P. G. Schaberg, C. Eagar and C. H. Borer. 2006. Calcium addition at the Hubbard Brook Experimental Forest reduced winter injury to red spruce in a high-injury year. Canadian Journal of Forest Research 36:2544-2549.
+<p>Houston, D. R. (1975). Beech bark disease: The aftermath forests are structured for new outbreak. <em>Journal of Forestry, 73</em>, 660–663. (No DOI)</p>
 
-Houston D. R. 1975. Beech bark disease: the aftermath forests are structured for new outbreak. Journal of Forestry 73: 660-663.
+<p>Hughes, J. W., & Fahey, T. J. (1988). Seed dispersal and colonization in a disturbed northern hardwood forest. <em>Bulletin of the Torrey Botanical Club, 115</em>, 89–99. <a href="https://doi.org/10.2307/2996611">https://doi.org/10.2307/2996611</a></p>
 
-Hughes, J. W. and T. J. Fahey. 1988. Seed dispersal and colonization in a disturbed northern hardwood forest. Bulletin of the Torrey Botanical Club 115:89-99.
+<p>Jones, R. H., & Raynal, D. J. (1987). Root sprouting in American beech: Production, survival, and the effect of parent tree vigor. <em>Canadian Journal of Forest Research, 17</em>(6), 539–544. <a href="https://doi.org/10.1139/x87-090">https://doi.org/10.1139/x87-090</a></p>
 
-Jones, R. H. and D. J. Raynal. 1987. Root sprouting in American beech: production, survival, and the effect of parent tree vigor. Canadian Journal of Forest Research 17(6):539-544.
+<p>Juice, S. M., Fahey, T. J., Siccama, T. G., Driscoll, C. T., Denny, E. G., Eagar, C., Cleavitt, N. L., Minocha, R., & Richardson, A. D. (2006). Response of sugar maple to calcium addition to northern hardwood forest at Hubbard Brook, NH. <em>Ecology, 87</em>(5), 1267–1280. <a href="https://doi.org/10.1890/0012-9658(2006)87[1267:ROSMTC]2.0.CO;2">https://doi.org/10.1890/0012-9658(2006)87\[1267:ROSMTC\]2.0.CO;2</a></p>
 
-Juice, S. M., T. J. Fahey, T. G. Siccama, C. T. Driscoll, E. G. Denny, C. Eagar, N. L. Cleavitt, R. Minocha and A. D. Richardson. 2006. Response of sugar maple to calcium addition to northern hardwood forest at Hubbard Brook, NH. Ecology 87(5):1267-1280.
+<p>Lloret, J., & Valiela, I. (2016). Unprecedented decrease in deposition of nitrogen oxides over North America: The relative effects of emission controls and prevailing air-mass trajectories. <em>Biogeochemistry, 129</em>(1–2), 165–180. <a href="https://doi.org/10.1007/s10533-016-0225-5">https://doi.org/10.1007/s10533-016-0225-5</a></p>
 
-Lloret, J. and I. Valiela. 2016. Unprecedented decrease in deposition of nitrogen oxides over North America: the relative effects of emission controls and prevailing air-mass trajectories. Biogeochemistry 129(1-2). doi: 10.1007/s10533-016-0225-5
+<p>Lorimer, C. G., & White, A. S. (2003). Scale and frequency of natural disturbances in the northeastern US: Implications for early successional forest habitats and regional age distributions. <em>Forest Ecology and Management, 185</em>, 41–64. <a href="https://doi.org/10.1016/S0378-1127(03)00245-9">https://doi.org/10.1016/S0378-1127(03)00245-9</a></p>
 
-Lorimer, C. G. and A. S. White. 2003. Scale and frequency of natural disturbances in the northeastern US: implications for early successional forest habitats and regional age distributions. Forest Ecology and Management 185:41–64.
+<p>Marks, P. L. (1974). The role of pin cherry (<em>Prunus pensylvanica</em> L.) in the maintenance of stability in northern hardwood ecosystems. <em>Ecological Monographs, 44</em>, 73–88. <a href="https://doi.org/10.2307/1942312">https://doi.org/10.2307/1942312</a></p>
 
-Marks, P. L. 1974. The role of pin cherry (Prunus pensylvanica L.) in the maintenance of stability in northern hardwood ecosystems. Ecological Monographs 44:73–88.
+<p>Marks, P. L., & Gardescu, S. (1998). A case study of sugar maple (<em>Acer saccharum</em>) as a forest seedling bank species. <em>Journal of the Torrey Botanical Society, 125</em>, 287–296. <a href="https://doi.org/10.2307/2997242">https://doi.org/10.2307/2997242</a></p>
 
-Marks, P. L. and S. Gardescu. 1998. A case study of sugar maple (Acer saccharum) as a forest seedling bank species. Journal of the Torrey Botanical Society 125:287–296, doi:10.2307/2997242.
+<p>Martin, C. W., & Bailey, A. S. (1999). Twenty years of change in a northern hardwood forest. <em>Forest Ecology and Management, 123</em>(2–3), 253–260. <a href="https://doi.org/10.1016/S0378-1127(99)00029-0">https://doi.org/10.1016/S0378-1127(99)00029-0</a></p>
 
-Martin, C. W. and A. S. Bailey. 1999. Twenty years of change in a northern hardwood forest. Forest Ecology and Management 123(2-3):253-260.
+<p>Peart, D. R., Cogbill, C. V., & Palmiotto, P. A. (1992). Effects of logging history and hurricane damage on canopy structure in a northern hardwoods forest. <em>Bulletin of the Torrey Botanical Club, 119</em>(1), 29–38. <a href="https://doi.org/10.2307/2996997">https://doi.org/10.2307/2996997</a></p>
 
-Peart, D. R., C. V. Cogbill and P. A. Palmiotto. 1992. Effects of Logging History and Hurricane Damage on Canopy Structure in a Northern Hardwoods Forest. Bulletin of the Torrey Botanical Club 119(1):29–38.
+<p>Peterson, C. J. (2000). Catastrophic wind damage to North American forests and the potential impact of climate change. <em>Science of the Total Environment, 262</em>, 287–311. <a href="https://doi.org/10.1016/S0048-9697(00)00529-3">https://doi.org/10.1016/S0048-9697(00)00529-3</a></p>
 
-Peterson, C. J. 2000. Catastrophic wind damage to North American forests and the potential impact of climate change. Science of The Total Environment 262: 2 87-311.
+<p>Rhoads, A. G., Hamburg, S. P., Fahey, T. J., Siccama, T. G., Hane, E. N., Battles, J., Cogbill, C., Randall, J., & Wilson, G. (2002). Effects of an intense ice storm on the structure of a northern hardwood forest. <em>Canadian Journal of Forest Research, 32</em>(10), 1763–1775. <a href="https://doi.org/10.1139/x02-112">https://doi.org/10.1139/x02-112</a></p>
 
-Rhoads, A.G., S. P. Hamburg, T. J. Fahey, T. G. Siccama, E. N. Hane, J. Battles, C. Cogbill. J. Randall and G. Wilson. 2002. Effects of an intense ice storm on the structure of a northern hardwood forest. Canadian Journal of Forest Research 32(10): 1763-1775.
+<p>Schwarz, P. A., Fahey, T. J., & McCulloch, C. M. (2003). Factors controlling spatial variation of tree species abundance in a forested landscape. <em>Ecology, 84</em>(7), 1862–1878. <a href="https://doi.org/10.1890/0012-9658(2003)084[1862:FCSVOT]2.0.CO;2">https://doi.org/10.1890/0012-9658(2003)084\[1862:FCSVOT\]2.0.CO;2</a></p>
 
-Schwarz, P. A., T. J. Fahey and C. M. McCulloch. 2003. Factors controlling spatial variation of tree species abundance in a forested landscape. Ecology 84(7):1862-1878.
+<p>Schwarz, P. A., Fahey, T. J., Martin, C. W., & Siccama, T. G. (2001). Structure and composition of three northern hardwood-conifer forests with differing disturbance histories. <em>Forest Ecology and Management, 144</em>, 201–212. <a href="https://doi.org/10.1016/S0378-1127(00)00381-9">https://doi.org/10.1016/S0378-1127(00)00381-9</a></p>
 
-Schwarz, P.A., T. J. Fahey, C. W. Martin and T. G. Siccama. 2001. Structure and composition of three northern hardwood-conifer forests with differing disturbance histories. Forest Ecology and Management 144:201-212.
+<p>Siccama, T. G., Fahey, T. J., Johnson, C. E., Sherry, T. W., Denny, E. G., Girdler, B., Likens, G. E., & Schwarz, P. A. (2007). Population and biomass dynamics of trees in a northern hardwood forest at Hubbard Brook. <em>Canadian Journal of Forest Research, 37</em>, 737–749. <a href="https://doi.org/10.1139/X06-261">https://doi.org/10.1139/X06-261</a></p>
 
-Siccama, T. G., T. J. Fahey, C. E. Johnson, T. W. Sherry, E. G. Denny, B. Girdler, G. E. Likens and P. A. Schwarz. 2007. Population and Biomass Dynamics of Trees in a Northern Hardwood Forest at Hubbard Brook. Canadian Journal of Forest Research 37:737-749.
+<p>Thurston, S. W., Krasny, M. E., Martin, C. W., & Fahey, T. J. (1992). Effect of site characteristics and initial densities on forest development in a northern hardwood forest. <em>Canadian Journal of Forest Research, 22</em>(12), 1860–1868. <a href="https://doi.org/10.1139/x92-244">https://doi.org/10.1139/x92-244</a></p>
 
-Thurston, S. W., M. E. Krasny, C. W. Martin and T. J. Fahey. 1992. Effect of site characteristics and initial densities on forest development in a northern hardwood forest. Canadian Journal of Forest Research 22(12):1860-1868.
+<p>Tierney, G. L., & Fahey, T. J. (1998). Soil seed bank dynamics of pin cherry in northern hardwood forest, New Hampshire, USA. <em>Canadian Journal of Forest Research, 28</em>, 1471–1480. <a href="https://doi.org/10.1139/x98-125">https://doi.org/10.1139/x98-125</a></p>
 
-Tierney, G. L. and T. J. Fahey. 1998. Soil seed bank dynamics of pin cherry in northern hardwood forest, New Hampshire, USA. Canadian Journal of Forest Research 28:1471-1480.
+<p>Van Doorn, N. S., Battles, J. J., Fahey, T. J., Siccama, T. G., & Schwarz, P. A. (2011). Links between biomass and tree demography in a northern hardwood forest: A decade of stability and change in Hubbard Brook Valley, New Hampshire. <em>Canadian Journal of Forest Research, 41</em>, 1369–1379. <a href="https://doi.org/10.1139/x11-062">https://doi.org/10.1139/x11-062</a></p>
 
-Van Doorn, N. S., J. J. Battles, T. J. Fahey, T. G. Siccama and P. A. Schwarz. 2011. Links between biomass and tree demography in a northern hardwood forest: a decade of stability and change in Hubbard Brook Valley, New Hampshire. Canadian Journal of Forest Research 41:1369-1379.
-
-Weeks, B. C., S. P. Hamburg and M. Vadeboncoeur. 2009. Ice storm effects on the canopy structure of a northern hardwood forest after 8 years. Canadian Journal of Forest Research 39(8):1475-1483.
+<p>Weeks, B. C., Hamburg, S. P., & Vadeboncoeur, M. (2009). Ice storm effects on the canopy structure of a northern hardwood forest after 8 years. <em>Canadian Journal of Forest Research, 39</em>(8), 1475–1483. <a href="https://doi.org/10.1139/X09-070">https://doi.org/10.1139/X09-070</a></p>
+:::

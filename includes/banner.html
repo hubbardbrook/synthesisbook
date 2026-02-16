@@ -2,11 +2,23 @@
 document.addEventListener("DOMContentLoaded", function() {
   const banner = document.createElement("div");
   banner.className = "hb-banner-global";
+
   banner.innerHTML = `
-    <a href="https://hubbardbrook.org">
-      <img src="../images/banner.jpg" alt="Hubbard Brook Banner">
+    <a href="https://hubbardbrook.org" class="hb-banner-link">
+      <div class="hb-banner-image">
+        <img src="../images/banner.jpg" alt="">
+        <div class="hb-banner-overlay">
+          <div class="hb-banner-title">
+            Online Book: A Synthesis of Scientific Research at Hubbard Brook
+          </div>
+          <div class="hb-banner-subline">
+            [return to hubbardbrook.org]
+          </div>
+        </div>
+      </div>
     </a>
   `;
+
   document.body.prepend(banner);
 });
 </script>

@@ -5,29 +5,149 @@
 .figure figcaption {
   text-align: center;
 }
-
-
 .hb-banner-global {
   width: 100vw;
   margin-left: calc(-50vw + 50%);
   line-height: 0;
 }
 
-.hb-banner-global img {
-  width: 100%;
+.hb-banner-link {
+  display: block;
+  text-decoration: none;
+}
+
+.hb-banner-image {
+  position: relative;
   height: 200px;
+  overflow: hidden;
+}
+
+.hb-banner-image img {
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   display: block;
 }
+
+/* subtle dark overlay for readability */
+.hb-banner-image::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+}
+.hb-banner-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  z-index: 2;
+  padding: 0 20px;
+  text-shadow: 0 3px 10px rgba(0,0,0,0.6);
+}
+
+.hb-banner-title {
+  display: block;
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+.hb-banner-subline {
+  display: block;
+  font-size: 1rem;
+  margin-top: 3.0em;
+  opacity: 0.9;
+}
+
+
 
 /* Push page content below banner */
 /*.page-columns {
   margin-top: 200px;
 }
 */
-
-
-/* Increase main content width */
 .page-columns .content {
-  max-width: 1000px;   /* default is ~800–900px */
+  max-width: 1200px;
 }
+#TOC .nav-link {
+  display: block;
+  padding-left: 2.5em;
+  text-indent: -2.5em;
+}
+
+/* Increase spacing between chapter entries in left sidebar */
+.sidebar-navigation .sidebar-item {
+  margin-bottom: 0.8em !important;
+}
+
+/* Increase line spacing for wrapped titles */
+.sidebar-navigation .sidebar-item a {
+  line-height: 1.5 !important;
+}
+.references p {
+  text-indent: -1.5em;
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+}
+/* ===== Cover Page Grid ===== */
+
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+}
+
+.chapter-card {
+  padding: 0;
+}
+
+.chapter-card a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.chapter-card img {
+  border-radius: 12px 12px 0 0;
+}
+
+.chapter-card h3 {
+  margin: 1rem 1.5rem 0.5rem;
+}
+
+.chapter-card p {
+  margin: 0 1.5rem 1.5rem;
+}.references p {
+  text-indent: -1.5em;
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+}
+.references p {
+  text-indent: -1.5em;
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+# make banner sticky
+.hb-banner-global {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  z-index: 1000;
+}
+
+.hb-banner-image {
+  height: 200px;
+}
+
+
+body {
+  padding-top: 200px;  /* match banner height */
+}
+
