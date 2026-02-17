@@ -4,11 +4,27 @@ title: "Climate Change"
 
 Chapter Editor: John Campbell
 
+<video controls 
+       style="width:80%; max-width:900px; display:block; margin:1.5rem auto;">
+  <source src="https://photos.smugmug.com/Videos/Videos/i-5Tq4SH6/0/LjWKPMdNBk3GT7QSmZNJvDPQMhthpr2qkft6Dzg92/1280/Pam%20Templer%20talk_edited-1280.mp4" type="video/mp4">
+</video>
+
+
 ## Background
 
-The Hubbard Brook Experimental Forest (HBEF) was established well before the issue of climate change emerged. However, many of the long-term measurements collected at the site have become valuable climate change indicators (Table 1). Although these records might not provide information relative to climate change separately, combined they provide convincing evidence of climate change at the HBEF that is compatible with regional trends in the northeastern U.S. (Hayhoe et al. 2007; Melillo et al. 2014). A summary of the climatic characteristics of the HBEF most suitable for inclusion in research reports can be found in the Introduction chapter of this book. Table 1. Examples of long-term climate change indicator datasets collected at the HBEF.
+The Hubbard Brook Experimental Forest () was established well before the issue of climate change emerged. However, many of the long-term measurements collected at the site have become valuable climate change indicators (Table 1). Although these records might not provide information relative to climate change separately, combined they provide convincing evidence of climate change at the HBEF that is compatible with regional trends in the northeastern U.S. (Hayhoe et al. 2007; Melillo et al. 2014). A summary of the climatic characteristics of the HBEF most suitable for inclusion in research reports can be found in the Introduction chapter of this book. Table 1. Examples of long-term climate change indicator datasets collected at the HBEF.
 
-INSERT TABLE 1 HERE
+Table: Core Long-Term Monitoring Variables {#tbl-monitoring}
+
+| Meteorological     | Hydrological           | Soil                   | Biological              |
+|:------------------:|:----------------------:|:----------------------:|:-----------------------:|
+| Air temperature    | Lake ice in/out        | Soil temperature       | Phenology               |
+| Solar radiation    | Streamflow             | Soil moisture          | Birds                   |
+| Relative humidity  | Precipitation          | Soil frost             | Vegetation composition  |
+| Wind speed         | Stream temperature     | Stream sediment yield  | Tree growth             |
+|                    | Snow depth/SWE         |                        | Litterfall              |
+
+: Examples of long-term climate change indicator datasets collected at the HBEF. {#tbl-monitoring-variables}
 
 None of the long-term measurements at the HBEF were initiated for studying climate alone, but rather were collected to help understand other topics such as streamflow, biogeochemical dynamics, and forest growth. Some of the hydrometeorological measurements were initiated because of a need for data as input for computer models, most notably the BROOK model. BROOK was pioneering when it was first developed in the 1970’s and is still in wide-use today (Federer 2015). As a result, compared to most other similar research sites, the hydrometeorological records from the HBEF are long and comprehensive.
 

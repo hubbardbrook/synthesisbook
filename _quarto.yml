@@ -8,7 +8,7 @@ book:
   chapters:
     - index.qmd
     - SiteHistory.qmd
-    #- ClimateChange.qmd
+    - ClimateChange.qmd
     #- CompositionDynamics.qmd
     #- BiomassProductivity.qmd
   sidebar:

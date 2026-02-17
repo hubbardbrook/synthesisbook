@@ -3,10 +3,13 @@ title: "BiomassProductivity"
 ---
 
 Chapter Editors: John Battles
-<video controls width="100%">
-    <source src="https://photos.smugmug.com/Videos/Videos/i-grVSkZS/0/KNH5jPVQg6d5gqgfx7HNg2VgjcbH6S4JrBgDX7WC9/1280/Ruth%20Yanai%20talk_edited-1280.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+
+
+<video controls 
+       style="width:80%; max-width:900px; display:block; margin:1.5rem auto;">
+  <source src="https://photos.smugmug.com/Videos/Videos/i-grVSkZS/0/KNH5jPVQg6d5gqgfx7HNg2VgjcbH6S4JrBgDX7WC9/1280/Ruth%20Yanai%20talk_edited-1280.mp4" type="video/mp4">
 </video>
+
 
 ## Introduction
 
