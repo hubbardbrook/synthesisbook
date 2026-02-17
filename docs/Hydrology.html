@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.42">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>3&nbsp; Hydrology</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<link href="./ClimateChange.html" rel="prev">
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-821b353f9d95b26937205047da05f2b0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-sidebar docked">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Hydrology.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Hydrology</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Introduction</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./WhatsNew.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">What’s New</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./SiteHistory.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Site, History, and Research Approaches</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ClimateChange.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Climate Change</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Hydrology.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Hydrology</span></span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Chapter Sections</h2>
+   
+  <ul>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background"><span class="header-section-number">3.1</span> Background</a></li>
+  <li><a href="#hydrologic-processes-precipitation-and-snowmelt" id="toc-hydrologic-processes-precipitation-and-snowmelt" class="nav-link" data-scroll-target="#hydrologic-processes-precipitation-and-snowmelt"><span class="header-section-number">3.2</span> Hydrologic Processes: Precipitation and Snowmelt</a></li>
+  <li><a href="#hydrologic-processes-canopy-interception-and-evaporation" id="toc-hydrologic-processes-canopy-interception-and-evaporation" class="nav-link" data-scroll-target="#hydrologic-processes-canopy-interception-and-evaporation"><span class="header-section-number">3.3</span> Hydrologic Processes: Canopy Interception and Evaporation</a></li>
+  <li><a href="#hydrologic-processes-transpiration" id="toc-hydrologic-processes-transpiration" class="nav-link" data-scroll-target="#hydrologic-processes-transpiration"><span class="header-section-number">3.4</span> Hydrologic Processes: Transpiration</a></li>
+  <li><a href="#hydrologic-processes-infiltration-and-soil-water-redistribution" id="toc-hydrologic-processes-infiltration-and-soil-water-redistribution" class="nav-link" data-scroll-target="#hydrologic-processes-infiltration-and-soil-water-redistribution"><span class="header-section-number">3.5</span> Hydrologic Processes: Infiltration and Soil Water Redistribution</a></li>
+  <li><a href="#questions-for-further-study" id="toc-questions-for-further-study" class="nav-link" data-scroll-target="#questions-for-further-study"><span class="header-section-number">3.6</span> Questions for Further Study</a></li>
+  <li><a href="#access-data" id="toc-access-data" class="nav-link" data-scroll-target="#access-data"><span class="header-section-number">3.7</span> Access Data</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="header-section-number">3.8</span> References</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const banner = document.createElement("div");
+  banner.className = "hb-banner-global";
+
+  banner.innerHTML = `
+    <a href="https://hubbardbrook.org" class="hb-banner-link">
+      <div class="hb-banner-image">
+        <img src="images/banner.jpg" alt="">
+        <div class="hb-banner-overlay">
+          <div class="hb-banner-title">
+            Online Book: A Synthesis of Scientific Research at Hubbard Brook
+          </div>
+          <div class="hb-banner-subline">
+            [return to hubbardbrook.org]
+          </div>
+        </div>
+      </div>
+    </a>
+  `;
+
+  document.body.prepend(banner);
+});
+</script>
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Hydrology</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Chapter Editors: Mark Green and John Campbell</p>
+<section id="background" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="background"><span class="header-section-number">3.1</span> Background</h2>
+<p>Figure 1. Photo of V-notch weir at HB for measuring stream discharge.</p>
+<p>The HBEF was established in 1955 for the purpose of studying the effects of forest management on streamflow and water quality, building upon pioneering work from other sites that established the efficacy of the paired small watershed approach (Bates and Henry 1928). The principle underlying the small watershed approach is that for a catchment with relatively watertight bedrock (thus minimal subsurface loss), water can leave the watershed only by stream discharge or evapotranspiration (ET). Hence, indirect measurement of annual ET (which is difficult to quantify directly) is obtained as the difference between annual precipitation and stream discharge measured using v-notch weirs (Figure 1).</p>
+<p>The units in the hydrologic balance of a catchment are depth units (mm H2O) analogous to the familiar units of rainfall events. The volume discharge of the stream at the base of the catchment is divided by the projected area of the catchment to obtain depth units. The watershed balance of the catchment and annual ET are calculated on a water-year basis at the HBEF, from June 1 to May 31. A water year is determined by the point in time when there is the least amount of change in the volume of water stored in the watershed (especially soils and groundwater). This is accomplished by comparing precipitation and streamflow for successive 12 month periods over many years and determining what period has the highest correlation. This analysis indicates when water storage is most stable, which at the HBEF occurs after spring snowmelt when trees are leafing out and water storage is at a minimum.</p>
+<p>Figure 2. Long-term water balance in four watershed at Hubbard Brook: A. WS3, B. WS6, C. WS7, D. WS8. Originally published in Campbell et al.&nbsp;2011; this figure is updated with current data available in the Environmental Data Initiative Repository (EDI; https://portal.edirepository.org). Hover over graph to access interactive controls available at the top right (zoom/pan/etc).</p>
+<p>Hydrologists at the HBEF developed a long-term record of the water balance and annual ET for hydrologic reference watershed 3 (Figure 2). On average, about 40% of annual precipitation goes to ET and 60% to stream discharge. This partitioning to ET and streamflow varies considerably from year to year with a lower proportion to ET in wet years (in W3 minimum = 22% in WY 2010 and maximum = 53% in WY 1964). However, the absolute annual ET flux is relatively constant across years in the typically wet summer climate of HBEF where stomatal limitation of transpiration is less important than in drier climates. In an early experiment, WS2 was deforested, essentially eliminating transpiration (Likens et al.&nbsp;1970). Of course, stream discharge dramatically increased as only about 9% of precipitation input was evaporated (Figure 3); because soil temperature and surface moisture were greatly elevated by the elimination of vegetation cover, soil and snowpack evaporation in this experiment (about 120 mm H2O/yr) was much higher than for closed canopy forest (see below).</p>
+<p>The long-term record at the HBEF also demonstrates the response of the forest water balance to atmospheric and climate change. Three key environmental drivers have increased gradually at the HBEF since the 1950s: air temperature, annual precipitation and atmospheric CO2 concentration. In theory, increasing air temperature would be expected to cause higher evaporation (and ET) rates and, a longer leaf-on season of the deciduous trees, that should also contribute to higher ET. Indeed, phenological records from the HBEF indicate a lengthening leaf-on period (Keenan et al.&nbsp;2014; Figure 4).</p>
+<p>Conversely, higher atmospheric CO2 would be expected to increase stomatal control of transpiration (Eamus 1991). Our long-term, indirect estimate of annual ET for four reference watersheds at HB (WS3, WS6, WS7 and WS8) indicate little temporal change although the pattern differed slightly between the north- (WS7 and 8) and south-facing (WS6 and 3) watersheds (Figure 2). Trends in ET from other small watersheds in the Northeast are also inconsistent, suggesting that local site factors override broader regional drivers of ET. The exact cause of these trends is a topic of ongoing study at the HBEF.</p>
+<p>Most recently, water budgets in the four reference catchments indicated an approximately 30% increase in ET starting in 2010 and continuing through 2020 (Figure 2). We analyzed the annual water budgets, cumulative deviations of the daily P, RO and water budget residual (WBR = P − RO), potential ET (PET) and indicators of subsurface storage to gain greater insight into this shift in the water budgets (Green et al.&nbsp;2021). The PET and the subsurface storage indicators suggest that this change in WBR was primarily due to increasing ET. While multiple long-term hydrological and micrometeorological data sets were used to detect and investigate this increase in ET, additional measurements of groundwater storage and soil moisture would enable better estimation of ET within the catchment water balance. Increasing the breadth of long-term measurements across small gauged catchments allows them to serve as more effective sentinels of substantial hydrologic changes like the ET increase that we observed.</p>
+<p>Figure 3. Response of streamflow, evapotranspiration and stream water nutrient concentrations to devegetation treatment (shaded) of Watershed 2. (Likens et al., 1970).</p>
+<p>Figure 4 a-d, Manual ground observations of spring (left column) and autumn (right column) phenology over two decades at Harvard Forest from 1990- 2012 (Red oak (a)) and Hubbard Brook 1989 - 2012 (American beech (b); Sugar maple (c); Yellow birch (d)). (Keenan et al., 2014).</p>
+</section>
+<section id="hydrologic-processes-precipitation-and-snowmelt" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="hydrologic-processes-precipitation-and-snowmelt"><span class="header-section-number">3.2</span> Hydrologic Processes: Precipitation and Snowmelt</h2>
+<p>Early reports from the HBES indicated annual precipitation at 130 cm/yr with about 25-30% occurring as snow. Annual precipitation at the HBEF has increased by about 20% over nearly 60 yr of record, reflecting the general trend for the Northeast region (Hayhoe et al.&nbsp;2008). Most of this change has been in the warm season, as winter precipitation has not changed significantly; however, because of warmer winter temperatures, snowpack depth and the number of days with snow cover have declined. As a result snowmelt-induced high spring flows have declined. Low snow years are also associated with soil freezing events because the snowpack ordinarily insulates soil from cold winter air temperatures (Campbell et al.&nbsp;2010).</p>
+<p>An array of gages around the HBEF illustrates meso-scale variation in precipitation. In general, annual precipitation increases slightly with elevation (40 mm/100 m) as does the proportion in the form of snow. Due to local orographic effects, a significant west-to-east gradient of decreasing annual precipitation also is observed independent of elevation. Together, elevation and longitude explain 75% of the variation in long-term average annual precipitation.</p>
+</section>
+<section id="hydrologic-processes-canopy-interception-and-evaporation" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="hydrologic-processes-canopy-interception-and-evaporation"><span class="header-section-number">3.3</span> Hydrologic Processes: Canopy Interception and Evaporation</h2>
+<p>A considerable proportion of the precipitation falling on a forest is intercepted by the canopy, clings to the leaves and branches and never reaches the ground, eventually evaporating back to the atmosphere (I/E). Leonard (1961) conducted detailed studies of canopy I/E in the northern hardwood forest at HB. He estimated that 13% of gross precipitation (i.e., in the open) was lost as I/E during the leaf-on period. This value was only slightly lower (12%) during the leafless period, presumably because of high capture of snow in the canopy. Undoubtedly, canopy I/E is higher in the evergreen conifer zones. Moreover, studies in subalpine balsam fir forest near HB on Mt. Moosilauke indicated substantial augmentation of ambient precipitation by capture of cloud droplets (up to 46% of ambient rainfall; Lovett et al.&nbsp;1982). Although direct measurements have not been made at HB, the magnitude of this input would be expected to be much lower as the HB environment has less wind and fog.</p>
+<p>Evaporation from soil (Es) has not been measured at HB.</p>
+<p>However, water isotope data at HB indicate that Es is minor relative to transpiration (Green et al.&nbsp;2015). Estimates from other temperate deciduous forests suggest that Es is roughly 10% of total ET during the growing season (Moore et al.&nbsp;1996).</p>
+</section>
+<section id="hydrologic-processes-transpiration" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="hydrologic-processes-transpiration"><span class="header-section-number">3.4</span> Hydrologic Processes: Transpiration</h2>
+<p>Root water uptake and subsequent transpiration of water vapor from foliage is the principal pathway of water flux to the atmosphere. Transpiration flux depends upon environmental factors, especially air temperature, atmospheric humidity and soil moisture, as well as vegetation factors, particularly forest leaf area and leaf conductance (or resistance) to water vapor. Leaf area index (LAI) in the mature northern hardwood forest is relatively uniform spatially and temporally averaging about 6.5 (Battles et al.&nbsp;2014). Recovery of leaf area following large-scale disturbance is surprisingly rapid as LAI of cutover sites reaches 90% of mature forest values within 6-10 yr. Thus, increases in water yield from cutover watersheds is transient; Hornbeck et al.&nbsp;(1997) observed that stream discharge on cut watersheds at HB increased for only a few years. Moreover, the role of species differences in stomatal conductance in determining forest transpiration was apparent; in particular, stream discharge from the young forest watershed on cutover WS4 was consistently about 5% higher than the reference watershed (Hornbeck et al.&nbsp;1997). This was due to higher stomatal conductance (Federer 1977) of the pin cherry and birch that dominated the young forest, as compared with maple and beech in the reference forest.</p>
+<p>The role of soil moisture stress in regulating transpiration at HB is less important than for more xeric forests (Federer and Gee 1974), and the strong trend of increasing warm season precipitation in the region further discounts this role. However, increasing air temperature could lead to higher transpiration rates as well as more midday stomatal closure owing to greater absolute humidity deficit (Montieth 1995). At the same time, increasing atmospheric CO2 concentration would be expected to increase water-use efficiency (WUE) of plants and some evidence of increasing WUE and decreasing ET in northeastern forests has been observed (Keenan et al.&nbsp;2013). Exactly how the coincident trends of increasing CO2, temperature and precipitation will affect forest transpiration in coming decades remains uncertain.</p>
+<p>An unexpected result was observed regarding transpiration from the watershed-scale experimental restoration of soil Ca in WS1: stream discharge from the treated catchment decreased by about 20% for three years following the application of CaSiO3, indicating that transpiration had increased (Green et al.&nbsp;2013). The causes of this striking response are unknown although follow-up studies indicate an increase in sapflow of mature forest trees, confirming the watershed mass-balance result. Another recent intriguing result, from a stable water isotope study on W3, indicates significant sub-canopy water recycling, as transpired water vapor apparently recondenses and is re-used by the understory vegetation (Green et al.&nbsp;2015).</p>
+<p>Most recently, evidence of an unexpected increase in evapotranspiration has been suggested based on the long-term records of precipitation and runoff for the south-facing catchments at the HBEF. As explained earlier, we estimate annual AET using the annual water budget for the gauged watersheds at the HBEF, assuming minimal deep seepage or changes in soil/sediment storage. On this basis we observed a striking 30% increase in annual AET in the hydrologic reference watershed (W3) from 2010 to 2019 (Figure 1; Green et al.&nbsp;2021). Although the drivers of this trend remain somewhat uncertain, analysis of water budget residuals, climatic data and evidence of possible soil storage changes indicate that subtle increases in PET and decreased canopy resistance may be driving the trend. Further study of forest physiology, soil moisture and groundwater dynamics is needed to better resolve this important issue in ecosystem hydrology.</p>
+</section>
+<section id="hydrologic-processes-infiltration-and-soil-water-redistribution" class="level2" data-number="3.5">
+<h2 data-number="3.5" class="anchored" data-anchor-id="hydrologic-processes-infiltration-and-soil-water-redistribution"><span class="header-section-number">3.5</span> Hydrologic Processes: Infiltration and Soil Water Redistribution</h2>
+<p>Surface soils at HB are very porous because of high organic matter content and coarse textures. Hence, infiltration capacity is very high and infiltration-excess overland flow is uncommon (Pierce 1967). Overland flow has been observed on some occasions when infiltration is impeded. Surface soil scarification and compaction by heavy equipment during logging can result in overland flow on skid roads. In winters with cold temperatures and little insulating snow cover, saturated soils can freeze, forming concrete soil frost that limits infiltration and causes overland flow during winter and early spring. Localized saturation-excess overland flow occurs in particular landscape positions where perched water tables reach the surface during wet periods, explained below.</p>
+<p>Rapid vertical percolation of soil water prevails under most situations in the HB watersheds. Indeed, the formation of the predominant Haplorthod soil profile is predicated on such a flow regime. (Gannon et al.&nbsp;2014). However, the surface and subsurface topography and soil morphology in the HB watersheds is very complex. Bailey and co-workers (Bailey et al.&nbsp;2014, Gannon et al.&nbsp;2014) have demonstrated the utility of hydropedological units for characterizing this complexity at the small watershed scale: soil morphological characteristics and landscape position illustrate patterns of soil water redistribution. Observations on WS3 indicate a dynamic and spatially disconnected patchwork of water table development that depends on hillslope position, subsurface as well as surface topography and low porosity layers of dense glacial till and fragipans. These features can result in lateral subsurface flow as well as saturation-excess overland flow as detailed below. Watershed Hydrology: Stream Hydrograph, Stormflow and Contributing Area</p>
+<p>Figure 5. Hydrograph for watershed 6 showing stream discharge during a typical rain storm. (J. L. Campbell, unpublished data).</p>
+<p>The flowpaths of water through soils to streams influence biogeochemical fluxes as well as temporal and spatial variation in stream discharge, all of which are key characteristics of stream habitats. An enduring challenge in watershed hydrology is understanding the processes supplying “baseflow” (i.e.&nbsp;streamflow following an extended interval without rain) and those generating “stormflow” and flood events.</p>
+<p>The storm hydrograph is typically characterized by a steep rising limb following the beginning of a large rain (or snowmelt) event, a transient peak flow that can define flood effects and a prolonged receding limb following cessation of precipitation. The stream hydrograph in the HB experimental watersheds has been characterized as “flashy,” a term hydrologists use to denote a very rapid response to precipitation, a sharp peak and a quick return to baseflow (Figure 5). This behavior reflects the relatively short distances that water must travel in the watershed to reach the stream channel. Hooper and Shoemaker (1986) demonstrated that most stormflow discharge at HB was supplied by “old” water that resided as storage in the watershed for some time, but exactly where does this water come from?</p>
+<p>In general, saturated areas in a catchment are capable of generating lateral flow to stream channels, and potentially supplying storm flow; such areas are denoted “active.” However, not all active areas actually contribute to the steeply-rising limb of a stormflow event. For example, if a patch of perched water table is separated by zones of low conductivity (drier soils) from other saturated zones, rapid flow from that patch will not occur. “Contributing” areas are saturated or near-saturated soils that are hydraulically connected to the stream and hence will contribute rapidly to stream discharge during rain events. The larger the contributing area in a watershed at a particular time, the greater and more rapid the streamflow response to a rain or melt event. Certainly riparian zones are most likely to be contributing areas both because of more frequent wet conditions and because of greater hydraulic connectivity to stream-channels. However, upland areas of a watershed can also be contributing areas. Gannon et al.&nbsp;(2014) observed differences in perched water table development among hydropedological units and different threshold responses in the storage-discharge relationships of these units, indicative of distinct subsurface flow regimes. Moreover, variably connected and disconnected active areas occur across WS3 at HB so that the contributing area for stormflow varies in complex ways with catchment storage.</p>
+<p>Figure 6. Evolution of the simulated median age of discharge during a 4 year period. Red and blue circles denote dry and wet periods; further analysis is included in Benettin et al.&nbsp;(2015).</p>
+<p>The water flow dynamics of a watershed can be further abstracted to represent the age-distribution of stored water, or analogously the travel-time distribution of water reaching the stream channel. These features of catchment hydrology are important for understanding the biogeochemical behavior of the watershed-ecosystem because they integrate spatial heterogeneity and capture kinetic and equilibrium limitations on solute dynamics. Benettin et al.&nbsp;(2015) estimated the median travel time for water in WS3 to range from 50 to 200 days, depending upon catchment wetness (Figure 6). Notably, the analysis indicated a significant role of sub-soil glacial till below the tree rooting zone in supplying water (and solutes) to the stream in WS3.</p>
+</section>
+<section id="questions-for-further-study" class="level2" data-number="3.6">
+<h2 data-number="3.6" class="anchored" data-anchor-id="questions-for-further-study"><span class="header-section-number">3.6</span> Questions for Further Study</h2>
+<ul>
+<li>What explains the long-term trends in AET in the gaged watersheds and will these trends continue?</li>
+<li>How does the pattern of hydropedology developed for WS3 apply to the broader HB Valley and the White Mountain region?</li>
+<li>What caused the transient increase in AET on WS1 following restoration of soil calcium and does this response have broader implications for forest hydrology in a changing environment?</li>
+<li>What are the sources of baseflow in first and second-order streams in upland catchments?</li>
+<li>Have there been systematic and significant changes in catchment-scale storage of water in the sediments of HB watersheds?</li>
+</ul>
+</section>
+<section id="access-data" class="level2" data-number="3.7">
+<h2 data-number="3.7" class="anchored" data-anchor-id="access-data"><span class="header-section-number">3.7</span> Access Data</h2>
+<pre><code>USDA Forest Service, Northern Research Station. 2020. Hubbard Brook Experimental Forest: Daily Streamflow by Watershed, 1956 - present ver 11. Environmental Data Initiative. https://doi.org/10.6073/pasta/d10220595119b502fe2ac14833fa4b9b
+USDA Forest Service, Northern Research Station. 2021. Hubbard Brook Experimental Forest: Total Daily Precipitation by Watershed, 1956 - present ver 14. Environmental Data Initiative. https://doi.org/10.6073/pasta/dc5880a6956f0cdd706d1c13b13e23c3
+USDA Forest Service, Northern Research Station. 2021. Hubbard Brook Experimental Forest: Routine Seasonal Phenology Measurements, 1989 - present ver 12. Environmental Data Initiative. https://doi.org/10.6073/pasta/f2c18a955c24eadaec1fa0d915a7b527
+Hubbard Brook Watershed Ecosystem Record (HBWatER). 2021. Continuous precipitation and stream chemistry data, Hubbard Brook Ecosystem Study, 1963 u2013 present. ver 6. Environmental Data Initiative. https://doi.org/10.6073/pasta/ee9815b41b79c134fd714736ce98676a</code></pre>
+</section>
+<section id="references" class="level2" data-number="3.8">
+<h2 data-number="3.8" class="anchored" data-anchor-id="references"><span class="header-section-number">3.8</span> References</h2>
+<div class="references">
+<p>
+Bailey, S. W., Brousseau, P. A., McGuire, K. L., &amp; Ross, D. S. (2014). Influence of landscape position and transient water table on soil development and carbon distribution in a steep, headwater catchment. <em>Geoderma, 226</em>, 279–289. <a href="https://doi.org/10.1016/j.geoderma.2014.02.016">https://doi.org/10.1016/j.geoderma.2014.02.016</a>
+</p>
+<p>
+Bates, C. G., &amp; Henry, A. J. (1928). <em>Forest and streamflow experiment at Wagon Wheel Gap, Colorado</em> (U.S. Weather Bureau Monthly Weather Review, Supplement 30). U.S. Government Printing Office. (No DOI)
+</p>
+<p>
+Battles, J. J., Fahey, T. J., Driscoll, C. T., Blum, J. D., &amp; Johnson, C. E. (2014). Restoring soil calcium reverses forest decline. <em>Environmental Science &amp; Technology Letters, 1</em>, 15–19. <a href="https://doi.org/10.1021/ez400033d">https://doi.org/10.1021/ez400033d</a>
+</p>
+<p>
+Benettin, P., Bailey, S. W., Campbell, J. L., Green, M. B., Rinaldo, A., Likens, G. E., McGuire, K. J., &amp; Botter, G. (2015). Linking water age and solute dynamics in streamflow at the Hubbard Brook Experimental Forest, NH, USA. <em>Water Resources Research, 51</em>, 9256–9272. <a href="https://doi.org/10.1002/2015WR017552">https://doi.org/10.1002/2015WR017552</a>
+</p>
+<p>
+Campbell, J. L., Driscoll, C. T., Pourmokhtarian, A., &amp; Hayhoe, K. (2011). Streamflow responses to past and projected future changes in climate at the Hubbard Brook Experimental Forest, New Hampshire, United States. <em>Water Resources Research, 47</em>(2), W02154. <a href="https://doi.org/10.1029/2010WR009438">https://doi.org/10.1029/2010WR009438</a>
+</p>
+<p>
+Campbell, J. L., Ollinger, S. V., Flerchinger, G. N., Wicklein, H., Hayhoe, K., &amp; Bailey, A. S. (2010). Past and projected future changes in snowpack and soil frost at the Hubbard Brook Experimental Forest, New Hampshire, USA. <em>Hydrological Processes, 24</em>, 2465–2480. <a href="https://doi.org/10.1002/hyp.7666">https://doi.org/10.1002/hyp.7666</a>
+</p>
+<p>
+Eamus, D. (1991). The interaction of rising CO₂ and temperatures with water use efficiency. <em>Plant, Cell &amp; Environment, 14</em>, 843–852. <a href="https://doi.org/10.1111/j.1365-3040.1991.tb01442.x">https://doi.org/10.1111/j.1365-3040.1991.tb01442.x</a>
+</p>
+<p>
+Federer, C. A. (1977). Leaf resistance and xylem potential differ among broadleaved species. <em>Forest Science, 23</em>, 411–419. <a href="https://doi.org/10.1093/forestscience/23.4.411">https://doi.org/10.1093/forestscience/23.4.411</a>
+</p>
+<p>
+Federer, C. A., &amp; Gee, G. W. (1974). Tree water stress in relation to water yield in a hardwood forest. <em>Research Report 7</em>, University of New Hampshire Water Resources Research Center. (No DOI)
+</p>
+<p>
+Gannon, J. P., Bailey, S. W., &amp; McGuire, K. J. (2014). Organizing groundwater regimes and response thresholds by soils: A framework for understanding runoff generation in a headwater catchment. <em>Water Resources Research, 50</em>, 8403–8419. <a href="https://doi.org/10.1002/2014WR015766">https://doi.org/10.1002/2014WR015766</a>
+</p>
+<p>
+Green, M. B., Bailey, A. S., Bailey, S. W., Battles, J. J., Campbell, J. L., Driscoll, C. T., Fahey, T. J., Lepine, L., Likens, G. E., Ollinger, S. V., &amp; Schaberg, P. G. (2013). Decreased water flowing from a forest amended with calcium silicate. <em>Proceedings of the National Academy of Sciences, 110</em>(15), 5999–6003. <a href="https://doi.org/10.1073/pnas.1302445110">https://doi.org/10.1073/pnas.1302445110</a>
+</p>
+<p>
+Green, M. B., Laursen, B. K., Campbell, J. L., McGuire, K. J., &amp; Kelsey, E. P. (2015). Stable water isotopes suggest sub-canopy water recycling in a northern forested catchment. <em>Hydrological Processes, 29</em>(25), 5193–5202. <a href="https://doi.org/10.1002/hyp.10706">https://doi.org/10.1002/hyp.10706</a>
+</p>
+<p>
+Green, M. B., Bailey, S. W., Campbell, J. L., McGuire, K. J., Bailey, A. S., Fahey, T. J., Lany, N., &amp; Zietlow, D. (2021). A catchment water balance assessment of an abrupt shift in evapotranspiration at the Hubbard Brook Experimental Forest, New Hampshire, USA. <em>Hydrological Processes, 35</em>(8), e14300. <a href="https://doi.org/10.1002/hyp.14300">https://doi.org/10.1002/hyp.14300</a>
+</p>
+<p>
+Hayhoe, K., Wake, C., Anderson, B., Liang, X.-Z., Maurer, E., Zhu, J., Bradbury, J., DeGaetano, A., Stoner, A., &amp; Wuebbles, D. (2008). Regional climate change projections for the Northeast USA. <em>Mitigation and Adaptation Strategies for Global Change, 13</em>, 425–436. <a href="https://doi.org/10.1007/s11027-007-9133-2">https://doi.org/10.1007/s11027-007-9133-2</a>
+</p>
+<p>
+Hooper, R. P., &amp; Shoemaker, C. A. (1986). A comparison of chemical and isotopic hydrograph separation. <em>Water Resources Research, 22</em>(10), 1444–1454. <a href="https://doi.org/10.1029/WR022i010p01444">https://doi.org/10.1029/WR022i010p01444</a>
+</p>
+<p>
+Hornbeck, J. W., Martin, C. W., &amp; Eagar, C. (1997). Summary of water yield experiments at Hubbard Brook Experimental Forest, New Hampshire. <em>Canadian Journal of Forest Research, 27</em>, 2043–2052. <a href="https://doi.org/10.1139/x97-173">https://doi.org/10.1139/x97-173</a>
+</p>
+<p>
+Keenan, T. F., Gray, J., Friedl, M. A., Toomey, M., Bohrer, G., Hollinger, D. Y., Munger, J. W., O’Keefe, J., Schmid, H. P., Wing, I. S., Yang, B., &amp; Richardson, A. D. (2014). Net carbon uptake has increased through warming-induced changes in temperate forest phenology. <em>Nature Climate Change, 4</em>, 598–604. <a href="https://doi.org/10.1038/nclimate2253">https://doi.org/10.1038/nclimate2253</a>
+</p>
+<p>
+Keenan, T. F., Hollinger, D. Y., Bohrer, G., Dragoni, D., Munger, J. W., Schmid, H. P., &amp; Richardson, A. D. (2013). Increase in forest water-use efficiency as atmospheric carbon dioxide concentrations rise. <em>Nature, 499</em>, 324–327. <a href="https://doi.org/10.1038/nature12291">https://doi.org/10.1038/nature12291</a>
+</p>
+<p>
+Leonard, R. E. (1961). Net precipitation in a northern hardwood forest. <em>Journal of Geophysical Research, 66</em>, 2417–2421. <a href="https://doi.org/10.1029/JZ066i008p02417">https://doi.org/10.1029/JZ066i008p02417</a>
+</p>
+<p>
+Likens, G. E., Bormann, F. H., Johnson, N. M., Fisher, D. W., &amp; Pierce, R. S. (1970). Effects of forest cutting and herbicide treatment on nutrient budgets in the Hubbard Brook watershed-ecosystem. <em>Ecological Monographs, 40</em>, 23–47. <a href="https://doi.org/10.2307/1942440">https://doi.org/10.2307/1942440</a>
+</p>
+<p>
+Lovett, G. M., Reiners, W. A., &amp; Olson, R. K. (1982). Cloud droplet deposition in subalpine balsam fir forests: Hydrological and chemical inputs. <em>Science, 218</em>, 1303–1304. <a href="https://doi.org/10.1126/science.218.4579.1303">https://doi.org/10.1126/science.218.4579.1303</a>
+</p>
+<p>
+Monteith, J. L. (1995). A reinterpretation of stomatal responses to humidity. <em>Plant, Cell &amp; Environment, 18</em>, 357–364. <a href="https://doi.org/10.1111/j.1365-3040.1995.tb00381.x">https://doi.org/10.1111/j.1365-3040.1995.tb00381.x</a>
+</p>
+<p>
+Moore, K. E., Fitzjarrald, D. R., Sakai, R. K., Goulden, M. L., Munger, J. W., &amp; Wofsy, S. C. (1996). Seasonal variation in radiative and turbulent exchange at a deciduous forest in central Massachusetts. <em>Journal of Applied Meteorology, 35</em>, 122–134. <a href="https://doi.org/10.1175/1520-0450(1996)035<0122:SVIRAT>2.0.CO;2">https://doi.org/10.1175/1520-0450(1996)035&lt;0122:SVIRAT&gt;2.0.CO;2</a>
+</p>
+<p>
+Pierce, R. S. (1967). The evidence of overland flow on forested watersheds. In W. E. Sopper &amp; H. W. Lull (Eds.), <em>International symposium of forest hydrology</em> (pp.&nbsp;247–253). Pergamon Press. (No DOI)
+</p>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./ClimateChange.html" class="pagination-link" aria-label="Climate Change">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Climate Change</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

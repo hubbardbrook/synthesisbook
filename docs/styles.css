@@ -160,3 +160,13 @@
   line-height: 1.6;
 }
 
+/* Hide chapter number for first sidebar item */
+.sidebar .chapter:first-child .chapter-number {
+  display: none;
+}
+
+/* Hide chapter number in main title on index page */
+body.quarto-light .quarto-title .chapter-number,
+body.quarto-dark .quarto-title .chapter-number {
+  display: none;
+}

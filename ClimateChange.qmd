@@ -12,9 +12,8 @@ Chapter Editor: John Campbell
 
 ## Background
 
-The Hubbard Brook Experimental Forest () was established well before the issue of climate change emerged. However, many of the long-term measurements collected at the site have become valuable climate change indicators (Table 1). Although these records might not provide information relative to climate change separately, combined they provide convincing evidence of climate change at the HBEF that is compatible with regional trends in the northeastern U.S. (Hayhoe et al. 2007; Melillo et al. 2014). A summary of the climatic characteristics of the HBEF most suitable for inclusion in research reports can be found in the Introduction chapter of this book. Table 1. Examples of long-term climate change indicator datasets collected at the HBEF.
+The Hubbard Brook Experimental Forest () was established well before the issue of climate change emerged. However, many of the long-term measurements collected at the site have become valuable climate change indicators (@tbl-monitoring-variables). Although these records might not provide information relative to climate change separately, combined they provide convincing evidence of climate change at the HBEF that is compatible with regional trends in the northeastern U.S. (Hayhoe et al. 2007; Melillo et al. 2014). A summary of the climatic characteristics of the HBEF most suitable for inclusion in research reports can be found in the [Introduction chapter](@sec-introduction) of this book. 
 
-Table: Core Long-Term Monitoring Variables {#tbl-monitoring}
 
 | Meteorological     | Hydrological           | Soil                   | Biological              |
 |:------------------:|:----------------------:|:----------------------:|:-----------------------:|

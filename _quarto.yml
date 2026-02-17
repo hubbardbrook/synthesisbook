@@ -7,10 +7,11 @@ book:
   title: ""
   chapters:
     - index.qmd
+    - WhatsNew.qmd
     - SiteHistory.qmd
     - ClimateChange.qmd
-    #- CompositionDynamics.qmd
-    #- BiomassProductivity.qmd
+    - Hydrology.qmd
+
   sidebar:
     style: docked
     collapse-level: 2
