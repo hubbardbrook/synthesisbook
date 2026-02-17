@@ -23,4 +23,15 @@ The Hubbard Brook Experimental Forest (HBEF) was established well before the iss
 :::
 
 
+::: {.chapter-item}
+
+
+[![](figs/thumbs/v-notchWeirPhoto.png)](SiteHistory.qmd)
+
+**3. [Hydrology](Hydrology.qmd)**  
+The HBEF was established in 1955 for the purpose of studying the effects of forest management on streamflow and water quality, building upon pioneering work from other sites that established the efficacy of the paired small watershed approach (Bates and Henry 1928). The principle underlying the small watershed approach is that for a catchment with relatively watertight bedrock (thus minimal subsurface loss), water can leave the watershed only by stream discharge or evapotranspiration (ET).::
+
+
+:::
+
 :::

@@ -180,3 +180,25 @@ body.quarto-dark .quarto-title .chapter-number {
   font-style: italic;
   color: #555;
 }
+/* Make all section headers blue and serif */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Georgia", "Times New Roman", serif;
+  color: #7393B3;   /* choose your blue */
+}
+/* Section headers */
+.quarto-body h1,
+.quarto-body h2,
+.quarto-body h3,
+.quarto-body h4,
+.quarto-body h5,
+.quarto-body h6 {
+  font-family: "Georgia", "Times New Roman", serif;
+  color: #7393B3;
+}
+
+/* Section numbers */
+.quarto-body .header-section-number {
+  font-family: "Georgia", "Times New Roman", serif;
+  color: #7393B3;
+}
+

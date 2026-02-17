@@ -43,5 +43,7 @@ format:
     toc: true
     toc-title: "Chapter Sections"
     include-before-body: includes/banner.html
+  pdf:
+    documentclass: scrreprt # Example PDF specific option    
     
 #from: markdown+raw_html
