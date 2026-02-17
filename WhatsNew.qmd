@@ -1,9 +1,39 @@
 # What's New {.unnumbered}
 
-February 2026
+## February 2026
 
-* Lany et al. Foliar N - N chapter
-* Possinger et al. Soil respiration - Soil biology chapter
-* Bernhardt et al. Enhanced P weathering on WS5 - P chapter
-* Green et al. IWUE and increased transpiration - Hydrology chapter
-* Cleavitt et al. Sugar maple on WS5 - Vegetation chapter
+__Recent declines of foliar N in northern hardwood forest at HBEF__
+
+Based on 32 years of sampling of the three dominant tree species in the northern hardwood forest at the HBEF (Lany et al. 2026), a temporal pattern of increasing foliar N to a peak in the early 2000s was followed by significant declines suggestive of recent N oligotrophication. See chapter on Nitrogen Cycling in this volume for details.
+
+* Lany, N, L Pardo, NL Cleavitt, T Fahey, and C Goodale. 2026. Long-term declines in nitrogen and other nutrients in foliage of three northern hardwood species at the Hubbard Brook Experimental Forest. Canadian Journal of Forest Research. [https://doi.org/10.1139/cjfr-2025-0105]()
+
+__Recent increases of soil respiration in northern hardwood forests__
+
+Emission of carbon dioxide from the soil in northern hardwood forests in and around HBEF increased abruptly beginning around 2012-2013. Field measurements indicated roughly doubled CO2 emission during the warm season by 2020 (Mann et al. 2024, Possinger et al. 2024), signaling a profound alteration of the carbon cycle accompanying increasing atmospheric CO2 concentrations. See chapter on soil biology in this volume.
+
+* Mann, T. A., R. D. Yanai, T. J. Fahey, and A. B. Reinmann. “Nitrogen and Phosphorus Addition Affect Soil Respiration in Northern Hardwood Forests.” Ecosystems 27, no. 6 (2024): 765–78. [https://doi.org/10.1007/s10021-024-00912-1](https://doi.org/10.1007/s10021-024-00912-1).
+
+* Possinger, Angela R., Charles T. Driscoll, Mark B. Green, et al. “Increasing Soil Respiration in a Northern Hardwood Forest Indicates Symptoms of a Changing Carbon Cycle.” Communications Earth & Environment 6, no. 1 (2025): 418. [https://doi.org/10.1038/s43247-025-02405-y]().
+
+
+__Decline of sugar maple abundance following whole-tree harvest of W5 at HBEF__
+The thirty-year trajectory of forest regrowth on W5 at the HBEF following whole-tree harvest indicated a dramatic decline in sugar maple abundance (Cleavitt et al. 2018). The decline has been most severe in upper slope positions where severe base-cation depletion, especially calcium, has been observed as a result of acid deposition and tree removals. For details see chapter on forest composition in this volume.
+
+* CCleavitt, Natalie L., John J. Battles, Chris E. Johnson, and Timothy J. Fahey. “Long-Term Decline of Sugar Maple Following Forest Harvest, Hubbard Brook Experimental Forest, New Hampshire.” Canadian Journal of Forest Research 48, no. 1 (2017): 23–31. HBR.2017-35. [https://doi.org/10.1139/cjfr-2017-0233]().
+
+
+__Increased evapotranspiration from the HBEF watersheds__
+
+Long-term measurements of the hydrologic balance of four small watersheds at the HBEF indicate a significant increase (about 30%) in evapotranspiration from the forest beginning around 2010 and continuing into the 2020s (Green et al. 2021). Although the cause of this increase remains uncertain, ongoing measurements suggest a role of increased transpiration perhaps accompanied by increased canopy GPP. For details see chapter on Hydrology in this volume.
+
+* Green, Mark B., Scott W. Bailey, John L. Campbell, et al. “A Catchment Water Balance Assessment of an Abrupt Shift in Evapotranspiration at the Hubbard Brook Experimental Forest, New Hampshire, USA.” Hydrological Processes n/a, no. n/a (2021): e14300. [https://doi.org/10.1002/hyp.14300]().
+
+
+__Enhanced biotic weathering of P from soils on W5 following whole-tree harvest__
+
+Long-term measurements of stream chemistry for W5 after the whole-tree harvest in 1984 indicate significant increases in dissolved Si that can only be explained as a result of increased weathering of silicate minerals in the soil profile (Berhardt et al. 2025). Perhaps the depletion of soil P by the forest harvest has promoted biotically driven weathering by ectomycorrhizal fungal networks of the now-dominant birches and beech on the watershed. For details see chapter on P cycling in this volume.
+
+* Bernhardt, Emily S., Emma J. Rosi, Christopher T. Solomon, et al. “Forest Recovery after Deforestation Is Fueled by Mineral Weathering at the Expense of Ecosystem Buffering Capacity.” Proceedings of the National Academy of Sciences 122, no. 42 (2025): e2419123122. [https://doi.org/10.1073/pnas.2419123122]().
+
+
