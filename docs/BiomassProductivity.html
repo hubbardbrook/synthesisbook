@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.42">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>5&nbsp; BiomassProductivity</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<link href="./CompositionDynamics.html" rel="prev">
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-821b353f9d95b26937205047da05f2b0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-sidebar docked">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./BiomassProductivity.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">BiomassProductivity</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Introduction</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./WhatsNew.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">What’s New</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./SiteHistory.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Site, History, and Research Approaches</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ClimateChange.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Climate Change</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Hydrology.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Hydrology</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./CompositionDynamics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Forest Composition and Dynamics</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./BiomassProductivity.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">BiomassProductivity</span></span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Chapter Sections</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction"><span class="header-section-number">5.1</span> Introduction</a></li>
+  <li><a href="#forest-biomass" id="toc-forest-biomass" class="nav-link" data-scroll-target="#forest-biomass"><span class="header-section-number">5.2</span> Forest Biomass</a></li>
+  <li><a href="#primary-productivity" id="toc-primary-productivity" class="nav-link" data-scroll-target="#primary-productivity"><span class="header-section-number">5.3</span> Primary Productivity</a></li>
+  <li><a href="#forest-leaf-area-index" id="toc-forest-leaf-area-index" class="nav-link" data-scroll-target="#forest-leaf-area-index"><span class="header-section-number">5.4</span> Forest Leaf Area Index</a></li>
+  <li><a href="#questions-for-further-study." id="toc-questions-for-further-study." class="nav-link" data-scroll-target="#questions-for-further-study."><span class="header-section-number">5.5</span> Questions for Further Study.</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="header-section-number">5.6</span> References</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const banner = document.createElement("div");
+  banner.className = "hb-banner-global";
+
+  banner.innerHTML = `
+    <a href="https://hubbardbrook.org" class="hb-banner-link">
+      <div class="hb-banner-image">
+        <img src="images/banner.jpg" alt="">
+        <div class="hb-banner-overlay">
+          <div class="hb-banner-title">
+            Online Book: A Synthesis of Scientific Research at Hubbard Brook
+          </div>
+          <div class="hb-banner-subline">
+            [return to hubbardbrook.org]
+          </div>
+        </div>
+      </div>
+    </a>
+  `;
+
+  document.body.prepend(banner);
+});
+</script>
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">BiomassProductivity</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Chapter Editors: John Battles</p>
+<video controls="" style="width:80%; max-width:900px; display:block; margin:1.5rem auto;">
+<source src="https://photos.smugmug.com/Videos/Videos/i-Nfz5GMH/0/Lp4DqsCCjBwksD97PKqQcg9f9mhcbC3DmM4GKN2Gh/1280/John%20Battles%20talk_edited-1280.mp4" type="video/mp4">
+</video>
+<p class="video-caption">
+Dr.&nbsp;John Battles speaks on the continuous 60-year record of forest inventory data within Watershed 6, including the lack of recovery of key tree species from acid rain. Video filmed at the Hubbard Brook Experimental Forest on May 17, 2024.
+</p>
+<section id="introduction" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">5.1</span> Introduction</h2>
+<p>Biomass is the living (and sometimes including recently dead) organic material synthesized by plants and other organisms. The accumulation of biomass in forests is greater than in other Earth biomes because trees must effectively lift their leaves above their neighbors in order to compete for the light resource; hence, forest biomass provides the structural material that allows the plants to grow tall. The biomass of trees in forests forms the three-dimensional structure in which all the other organisms are entrained and to which they are adapted for growth, survival and reproduction. Much of the energy and carbon stored in the forest resides in the biomass of the trees and understanding the factors regulating forest biomass and its accumulation is of fundamental importance to ecologists and foresters, alike.</p>
+<p>Figure 1. Changes in living biomass during ecosystem development after clear-cutting based on the average of two JABOWA simulations. (Bormann and Likens, 1979).</p>
+<p>In their classic treatise, Pattern and Process in a Forested Ecosystem, Bormann and Likens (1979) developed a conceptual model for spatial and temporal variation in the biomass of a northern hardwood forest, based upon observations at Hubbard Brook and other regional forests. In the temporal domain, they proposed four phases of ecosystem development following large-scale disturbances (e.g., windstorm, clearcut harvest), culminating in a steady-state phase in which total biomass fluctuates around an equilibrium value (Figure 1). Measurements at Hubbard Brook and elsewhere in the northern hardwood region have provided new insights about this conceptual model and the magnitude and timing of forest biomass accumulation.</p>
+<p>Primary productivity is the process resulting from photosynthetic activity of the plants and determines biomass accumulation in forests. Net primary productivity (NPP) represents the difference between gross photosynthesis of plant foliage and energy losses due to respiration and mortality of plant tissues. Although NPP continues in the steady-state phase of forest development, living biomass ceases to accumulate when photosynthetic carbon gain is balanced by losses to plant respiration and mortality. In general, the rate of biomass accumulation during the transient phases of ecosystem development depends upon forest NPP; hence, there has been great interest in understanding the factors constraining NPP and how they may be affected by forest management and environmental change.</p>
+<p>In this chapter, we explain current understanding of forest biomass and NPP in the context of the Hubbard Brook ecosystem, including: current measurement techniques; patterns of temporal and spatial variation; the environmental and biotic factors causing this variation; and the implications for responses to global and regional environmental change.</p>
+</section>
+<section id="forest-biomass" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="forest-biomass"><span class="header-section-number">5.2</span> Forest Biomass</h2>
+<p>In many biomes, direct measurement of biomass can be accomplished simply by weighing the tissue harvested from a measured area (e.g., clipping herbaceous vegetation). This is impractical in forests and indirect approaches have been developed. In general, these rely on the allometric relationships between an easily-measured dimension of the plant and its aboveground biomass. At Hubbard Brook, Whittaker et al.&nbsp;(1974) measured the dimensions (e.g., diameter, height, biomass, etc.) of a sample of 93 trees of different species and sites, and developed allometric equations relating the biomass of individual trees to their diameter and height. Then, by measuring the diameter and height of trees on sampling plots of known area, the forest biomass can be calculated by applying the species-specific allometric equations. A compilation of allometric equations of forest trees in USA has also been published (Jenkins et al. 2003). The statistical uncertainty of these aboveground biomass estimates can also be determined by using Monte Carlo approaches (Yanai et al.&nbsp;2010)</p>
+<p>Measuring the belowground (root) biomass of trees can be more challenging. Both direct and indirect approaches have been applied at Hubbard Brook. Whittaker et al.&nbsp;(1974) actually excavated the root systems of the sampled trees described above, “with the encouragement of dynamite.” This work provided a rare example in which allometric equations include the tree root system, but recovery of the smallest fine roots (&lt;0.5 mm diameter) is incomplete, and these roots are the most functionally important. Alternatively, root biomass can be measured directly by using a quantitative soil pit approach in which all the roots are recovered from a soil pit of known ground area and volume. Fahey et al.&nbsp;(1988) applied this method at Hubbard Brook and found close agreement with estimates obtained using the allometric equations for the coarse roots.</p>
+<p>Most of the tree biomass in the mature forest (e.g., 100-yr-old forest at Hubbard Brook) is contained in the woody tissues of the stem and roots (91%), the remainder being leaves (1.7%), bark (5.1%), and fine roots (2.2%). Understory vegetation comprises a very small biomass pool (&lt;1 % of total plant biomass). The ratio of root:shoot biomass varies with site quality and forest age, as discussed later, but averages about 0.25 in mature northern hardwood forest. The biomass of heterotrophic organisms averages less than 0.6% that of plants, and is mostly (~ 96%) comprised of soil microbes (bacteria, fungi).</p>
+<p>Figure 2. Spatial pattern of estimated aboveground biomass in the reference watershed (W6) and across the Hubbard Brook valley in 1997. The W6 map is based on a 100% survey, gridded at 25 x 25 m spatial scale. The valley-wide interpolations are based on 450 plots (0.05 ha each). Error estimates are given in the text. (Fahey et al., 2005).</p>
+<p>Figure 2. Spatial pattern of estimated aboveground biomass in the reference watershed (W6) and across the Hubbard Brook valley in 1997. The W6 map is based on a 100% survey, gridded at 25 x 25 m spatial scale. The valley-wide interpolations are based on 450 plots (0.05 ha each). Error estimates are given in the text. (Fahey et al., 2005).</p>
+<p>Forest biomass represents one of the largest and most sensitive carbon pools on Earth and for that reason, ecologists and policy-makers have become very interested in spatial and temporal patterns of forest biomass. Forest biomass varies markedly among forest biomes, the highest values attained in temperate and tropical rainforests, the lowest in boreal woodlands, and intermediate values in temperate deciduous forests. Within the Hubbard Brook valley a two-fold range of aboveground biomass is observed in the ca. 100-yr-old-forest, with lowest values in fir-birch-spruce forest on thin soils at higher elevations and highest values in mixed hemlock-hardwoods in the lower valley (Figure 2).</p>
+<p>Both tree species composition and site quality influence patterns of maximum forest biomass that accumulates in the northern forest region. For example, Kelty (1989) observed that mixed hemlock-hardwood stands support significantly higher biomass than pure hardwood stands, perhaps because of canopy architecture interactions; a similar pattern is seen in the lower valley at HBEF (Figure 2). The site quality influence also appears clearly at HBEF in the considerably higher biomass in enriched soil, “cove” sites on W6 in comparison with adjacent stands on thin soils of steeper slopes (Figure 2, inset).</p>
+<p>The northern forest is recognized as a significant sink for C, influencing the global C budget. This is in part because historical forest harvest in the region reduced forest C storage and recovery to the assumed steady-state is still in progress (Woodbury et al.&nbsp;2007). How long can we expect this ecosystem service to persist? The answer to this question is complex, involving multiple environmental and biotic factors as well as management and policy decisions. The conceptual model of Bormann and Likens (1979) and its application in simulation models originally suggested a transient, maximum forest biomass attained at forest age 150-200 yr followed by slight decline to the steady-state, old-growth phase (Figure 1). Empirical data from the Hubbard Brook forest indicate that live tree biomass reached a plateau much lower than predicted and at the age of only about 80 yr, owing to a variety of factors including exotic insect pests and pathogens (e.g.&nbsp;beech bark disease) and species declines unrelated to such pests (e.g., sugar maple, yellow birch). By comparison, summaries for the region, based upon various sources including USDA Forest Service Forest Inventory and Analysis (Lichstein et al.&nbsp;2009) suggest an intermediate pattern, with forest biomass in northern hardwoods reaching an asymptote at 125-150 years, at maximum values 30% lower than projected. Higher maximum biomass values may be reached on richer sites such as alluvial valleys (Keeton 2011). As explained below, site quality limitations partly associated with soil nutrient depletion by acid deposition, contribute to forest decline and the observed limitation of forest biomass accumulation at Hubbard Brook and other regional forests (Battles et al. 2014). Moreover, impending invasion by additional exotic pests (hemlock woolly adelgid, emerald ash borer) and effects of changing climate may further constrain forest biomass accumulation. The implication is that the combined effects of soil nutrient depletion, invasive pests and pathogens and climate change could limit the future role of forest biomass accumulation as a continuing sink for atmospheric CO2.</p>
+<p>Biomass of the forest in the reference watershed, W6, has been estimated periodically since 1965 by measuring the diameter of every tree in the watershed and applying the allometric equations; these measurements provide a detailed picture of changes in biomass for this previously aggrading forest (Figure 2-2). As noted earlier, the Hubbard Brook Forest accumulated biomass from the age of about 55 years in the early 1960s until the age of about 80 years in the 1980s. Since that time live biomass on W6 has levelled off and even shown some significant decreases owing to both natural disturbances (ice storm in 1998) and tree declines. In particular, widespread decline of sugar maple has contributed to the decrease in live biomass on W6. The cause of this decline is undoubtedly associated with depletion of soil base cations by acid deposition (see Acid Rain chapter). For example, the experimental replacement on W1 of calcium, lost as a result of soil leaching in the 20th century, reinvigorated sugar maple and consequently biomass accumulation resumed in the early 21st century (Figure 2-2). Continued monitoring of these forests and perhaps another dose of calcium will be needed to further inform these trends.</p>
+<p>Aboveground live tree biomass of the forest on reference watershed 6 and adjacent Ca-treated watershed 1. Error bars indicate 95% confidence intervals based on DBH measurements of all trees on the watersheds.</p>
+<p>Figure 2-2. Aboveground live tree biomass of the forest on reference watershed 6 and adjacent Ca-treated watershed 1. Error bars indicate 95% confidence intervals based on DBH measurements of all trees on the watersheds.</p>
+</section>
+<section id="primary-productivity" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="primary-productivity"><span class="header-section-number">5.3</span> Primary Productivity</h2>
+<p>Primary productivity (PP) is defined as the rate of energy or mass storage in organic matter of plants per unit surface area of the earth. In terrestrial ecosystems PP is conventionally divided into two components: 1) gross primary productivity (GPP) is the amount of organic material synthesized by plants per unit ground area per unit time, and 2) net primary productivity (NPP) is the amount of this organic material that remains after respiratory consumption of organic matter by the plants (Ra). All heterotrophic organisms rely on NPP for their food requirements. In forests, Clark et al.&nbsp;(2001) emphasized that a working definition of NPP for actual measurements must be adapted from the formal definition (above) because direct measurements of GPP and Ra are not possible and accounting for a variety of other losses of organic material from plant tissues during a measurement interval also can be challenging. In theory NPP could be quantified as:</p>
+<p>Eq. 1. NPP = ∆B + M + H + L + V,</p>
+<p>where ∆B is net change in biomass and M, H, L, and V are losses of organic matter from plant tissues owing to mortality, herbivory, leaching and volatilization, respectively. The reason that we must add loss terms like mortality to ∆B when calculating forest NPP is illustrated by the case where ∆B=0: if live biomass doesn’t change over a time interval during which losses of organic material are occurring, then the plants must have added new organic material to replace those losses. Thus, the loss terms would be equal to this new production. To estimate forest NPP at Hubbard Brook we quantify changes in live tree biomass using the allometric equations (described above) and we estimate the principal loss terms, tree mortality and mortality of ephemeral tissues (leaves and fine roots). Some of the other loss terms in Equation 1 also have been measured at Hubbard Brook. Although H, L and V usually comprise a relatively small proportion of aboveground NPP (ANPP), herbivory can be substantial during rare irruptions of defoliating insects. For example, during the peak year of a 3-yr irruption of a defoliating caterpillar (Heterocampa guttivita) about 44% of leaf tissue was consumed in the hardwood forest at HBEF, with local patches of 100% defoliation (Holmes and Sturges 1975). Finally, loss terms for belowground NPP (BNPP) are notoriously difficult to measure and can comprise a substantial portion of NPP that is particularly sensitive to environmental changes, climate, atmospheric CO2 and soil fertility. Table 1. Biomass and production components of northern hardwood forest at Hubbard Brook (adapted from Fahey et al., 2005). Biomass Components g/m2 (1997) Foliage 402 Branch 5436 Bark 1220 Wood 11932 Total aboveground biomass 18990 (248) Root crown 1580 Lateral woody roots 2920 Fine roots (&lt; 1mm) 522 Total belowground biomass 5022 (638) Total plant biomass 24012</p>
+<p>Production Components g/m2-yr (1997) Aboveground annual tissues 342 Aboveground perennial tissues 366 Total ANPP 708 (62) Fine roots 182 Coarse roots 76 Rhizosphere flux 160 Total BNPP 418 Total NPP 1126</p>
+<p>The first estimates of ANPP of the Hubbard Brook forest were calculated in the 1960s by Whittaker et al.&nbsp;(1974). At that time the forest on W6 was about 50 yrs old and ANPP was estimated at 924 g/m2-yr. Since that time ANPP has declined considerably; Fahey et al.&nbsp;(2005) estimated ANPP of the same forest at age ca. 90 yrs to be 708 g/m2-yr (Table 1). Roughly half of this total was associated with increment of woody tissue and half with replacement of ephemeral tissue (mostly foliage). The ANPP of the northern hardwood forest at Hubbard Brook is similar to a variety of other mature Acer-dominated forests worldwide (Table 2). Table 2. Aboveground net primary productivity and forest production efficiency for selected mature Acer-dominated forests (From Fahey et al., 2005) Location Ref.d/ ANPP</p>
+<p>(g/m2-yr) FPEa/</p>
+<p>LAI-basis FPEb/</p>
+<p>Mass-basis Wood PEc/ HBEF, NH age = 45 yr 1 924 147 2.28 na HBEF, NH age = 85 yr 2 708 112 1.76 0.91 Indiana mesic slope 3 678 161 2.19 1.28 Indiana bottomland 3 639 141 2.06 1.04 Wisconsin 4 755 137 2.02 1.02 Wisconsin sandy outwash 5 480 161 na na Wisconsin ground moraine 5 920 133 na na Himalayas, India 6 990 193 1.80 0.80 Upstate New York 7 772 119 2.38 1.23</p>
+<p>Belowground production (BNPP) includes the growth of perennial woody roots, the replacement of ephemeral fine roots as well as organic matter allocated to mycorrhizal fungi and other rhizosphere fluxes (e.g.&nbsp;root exudation). Direct observations of fine roots at Hubbard Brook using minirhizotrons indicate that most of the smallest first-and second-order roots have lifespans of about one year while higher order (order 3-4) roots live for several years (Tierney and Fahey 2001). On the basis of these observations fine root (&lt; 1mm) production has been estimated at 182 g/m2-yr, considerably lower than the production of aboveground ephemeral tissues (342 g/m2 yr; Table 2). However, total rhizosphere C flux has been estimated to be as high as 160 g/m2-yr (Fahey et al.&nbsp;2005) so that BNPP may comprise as much as 37% of total forest NPP (Table 1).</p>
+<p>Spatial pattern of estimated aboveground net primary productivity across the Hubbard Brook valley for 1990-1995.The interpolations are based on 370 plots for which diameter growth of all trees (&gt; 10 cm DBH) was measured. Error estimates are given in the text. (Fahey et al., 2005)</p>
+<p>Figure 3. Spatial pattern of estimated aboveground net primary productivity across the Hubbard Brook valley for 1990-1995.The interpolations are based on 370 plots for which diameter growth of all trees (&gt; 10 cm DBH) was measured. Error estimates are given in the text. (Fahey et al., 2005)</p>
+<p>The spatial pattern of ANPP of the Hubbard Brook forest generally reflects that of biomass (compare Figure 2 vs.&nbsp;3).</p>
+<p>For example, 42% of the variation in woody biomass production is explained by aboveground biomass across the 370 plots represented in Figure 2 and 3. The most notable decoupling between biomass and productivity is for fir-birch-spruce dominated stands at the upper elevations, where the production:biomass ratio is notably higher than elsewhere in the HB valley. The temporal pattern of NPP following large-scale disturbance follows the usual pattern of increase to a peak value after a few decades, followed by decline at greater ages. Such an age-related decline in NPP appears to be virtually universal in all forests (Ryan et al.&nbsp;1997) and has been attributed to a wide range of causes. These temporal and spatial patterns beg the basic question: what limits NPP in the Hubbard Brook forest?</p>
+<p>Figure 4. The effect of growing season length on simulated primary productivity using the model PnET-II (Aber et al.&nbsp;1995) parameterized for a northern hardwood forest at the HBEF. Leaf area duration (LAIMo) represents the product of daily estimated forest LAI and monthly time intervals for each year. (Fahey et al., 2005).</p>
+<p>Figure 4. The effect of growing season length on simulated primary productivity using the model PnET-II (Aber et al.&nbsp;1995) parameterized for a northern hardwood forest at the HBEF. Leaf area duration (LAIMo) represents the product of daily estimated forest LAI and monthly time intervals for each year. (Fahey et al., 2005).</p>
+<p>In general, forest NPP is limited by a variety of environmental conditions (e.g., temperature) and resources. In the cold temperate climate of the Northeast the short growing season during which temperatures are suitable for plant growth (i.e., the frost-free season averages 145 d; Bailey et al.&nbsp;2003) is a fundamental constraint on NPP. Temperature limitations contribute to both temporal and spatial variation in NPP at Hubbard Brook. For example, the time interval between leaf out and senescence for the broadleaf deciduous trees varies by about 30 d across years at HBEF (ca. 125-155 d; Bailey et al.&nbsp;2003), and the range of this index of growing season length across elevation (480-820 m) at Hubbard Brook is about 21 days. According to the simulation model PnET about 25% of annual variation in GPP can be explained by growing season length; however, plant respiration also is greater in years with long, warm seasons, so that the effect on NPP is much lower (e.g., only 6% of annual in net photosynthesis is explained by growing season length; Figure 4).</p>
+<p>Another atmospheric condition that limits forest NPP is atmospheric CO2 concentration as demonstrated in free-air CO2 enrichment (FACE) studies in several forests (Norby et al.&nbsp;2005). Although FACE experiments have not been conducted at HBEF, we have used the PnET model to evaluate possible effects of rising CO2 on NPP, independent of climate change effects. One key effect of rising atmospheric CO2 concentration on forest physiology is to allow greater stomatal control over water loss. Water-use efficiency (WUE) is defined as the ratio of plant photosynthesis per unit water loss by transpiration. Recent measurements indicate that the WUE of northeastern U.S. forests has risen steadily with atmospheric CO2 over the past two decades (Keenan et al.&nbsp;2013), probably explaining the unexpected observation that declining actual evapotranspiration from the HB watersheds has accompanied rising temperatures (see Climate Change chapter)</p>
+<p>The water-use efficiency result emphasizes that soil resource availability serves as an important constraint on forest NPP. Although precipitation is moderately high at HBEF and evenly distributed through the year, soil moisture deficits and drought stress occur occasionally. The dominant tree species are drought avoiders that close their stomata at relatively high soil water potential, thereby reducing potential damage but restricting photosynthetic C gain (Federer 1977). Notably, regional climate warming, which in the absence of CO2-induced increases in WUE would promote higher water loss by the trees, has been accompanied by increasing annual precipitation (see Climate Change chapter)</p>
+<p>The role of soil fertility in limiting NPP of northern hardwood forests has received considerable study over the years. Based on a recent meta-analysis of forest fertilization studies, Vadeboncoeur (2010) concluded that NPP of most young northern hardwood forests (e.g.&nbsp;&lt; 30 yr) responded to the addition of N, P, K or Ca or various combinations, with primary limitation by N being most common. Evidence for nutrient limitation of NPP in mature forests was mixed. Recent results from an ongoing N x P nutrient amendment experiment in and around HBEF suggest that P limitation may be widespread in mature northern hardwood forests.</p>
+<p>Figure. 5. ANPP for three elevational zones of W2 (open diamond, lower third; open square, middle third; open triangle, upper third) compared with site averages for conventionally harvested sites (solid squares). (Reiners et al., 2012).</p>
+<p>Figure. 5. ANPP for three elevational zones of W2 (open diamond, lower third; open square, middle third; open triangle, upper third) compared with site averages for conventionally harvested sites (solid squares). (Reiners et al., 2012).</p>
+<p>The effects of natural variation in soil nutrient availability on biomass accumulation and NPP of the Hubbard Brook forest have been modified by inputs of pollutants derived from human activity: acid precipitation and nitrogen deposition. Although direct evidence that N deposition has altered NPP of the mature forest is scant, reduction of NPP owing to depletion of soil base cations by acid deposition has been shown conclusively in the Ca remediation experiment on W1 at HBEF(Battles et al.&nbsp;2013). As noted earlier, the unexpected plateau in forest biomass on W6 is explained in part by this effect. Specifically, soil Ca depletion has limited biomass accumulation primarily by causing decline of the dominant species, sugar maple, which is particularly sensitive to low soil Ca availability (Long et al.&nbsp;2009). Crown deterioration and reduced LAI of sugar maple, attributed to soil Ca depletion, has contributed to the relatively low ANPP and biomass accumulation on W6 (Battles et al.&nbsp;2014). In addition to reduced net photosynthesis owing to LAI loss, higher costs of wound repair and plant defense accompany the impaired Ca nutrition of sugar maple in the reference forest (Huggett et al.&nbsp;2007; Halman et al.&nbsp;2015). As detailed by Tominaga et al.&nbsp;(2010), recovery of soil base cation status is expected to be delayed in the immediate future because of the high magnitude of 20th century losses and continuing acid deposition (albeit at lower levels).</p>
+<p>An interesting case study of the development of forest biomass and NPP following large-scale disturbance in northern hardwoods is provided by the deforestation study on W2. Reiners et al.&nbsp;(2012) hypothesized that the extreme disturbance of the deforestation treatment on W2 (see W2 Experimental Summary) would exceed the capacity for forest ecosystem resilience. In particular, the treatment resulted in loss of 28% of the ecosystem stock of total N (as well as smaller proportions of base cations); eliminated vegetative sprouting and advance regeneration as sources of forest regeneration; and greatly reduced the abundance of fast-growing pin cherry. Surprisingly, despite an initial lag in biomass accumulation and net primary productivity, the forest on W2 followed a trajectory similar to (though on the low end) of comparable sites that had been harvested by conventional methods (Figure 5).</p>
+<p>The slowest growth and biomass accumulation were observed in the upper elevation zone of the watershed where soils are thinner and less fertile (Johnson et al.&nbsp;2000). These observations illustrate that northern hardwoods forests on moderately fertile soils exhibit strong resilience of productivity. The mechanisms contributing to this high resilience deserve further study but may include biologically-enhanced weathering of primary minerals (Blum et al.&nbsp;2002), biological nitrogen fixation (Bormann et al.&nbsp;1993) and enhanced mineralization of relatively stable soil organic matter.</p>
+</section>
+<section id="forest-leaf-area-index" class="level2" data-number="5.4">
+<h2 data-number="5.4" class="anchored" data-anchor-id="forest-leaf-area-index"><span class="header-section-number">5.4</span> Forest Leaf Area Index</h2>
+<p>Forest productivity is powered by the capture of solar radiant energy by plant foliage. The standard measurement of foliage abundance that carries out this function is leaf area index (LAI), defined as the</p>
+<p>(one-sided) area of foliage in the entire plant canopy per unit ground area; essentially LAI is the number of layers of canopy foliage. In mesic forests like Hubbard Brook with a closed canopy, where LAI is little constrained by soil water availability, the maximum LAI is limited by self-shading because foliage at the bottom of the canopy receives insufficient insolation to effectively carry out the photosynthetic function. Forest LAI can be measured in a variety of ways, including LIDAR that can remotely sense objects in the canopy; however, this relatively recent tool measures plant area index, including stem/branch surfaces and requires correction factors. In the deciduous northern hardwood forest that dominates the Hubbard Brook landscape, LAI can also be measured conveniently by quantifying leaf litterfall. Litterfall records for the Hubbard Brook Forest go back over thirty years (Figure 6) and also allow estimation of LAI of each of the various tree species.</p>
+<p>The total LAI of the northern hardwood forest adjacent to reference W6 averages a little less than 6. In the absence of disturbances LAI is pretty constant from year to year, but considerable spatial variation across the study area is observed (Figure #): the highest values of 7 to 8 are observed in coves with enriched soils and sugar maple dominance while the lowest values (3.5 to 4) coincide with thin depleted soils in the upper watershed. Comparison between the reference forest adjacent to W6 and the Ca-treated W1 (Figure #) illustrates the role of soil base status and sugar maple health in regulating forest LAI and NPP in the experimental watersheds at Hubbard Brook. These patterns reflect site quality variation that clearly constrains the NPP of the wider forest landscape.</p>
+<p>The temporal pattern in LAI also reflects the effect of disturbances. In particular, a clear decrease in forest LAI accompanied disturbance by the 1998 ice storm: LAI was reduced in half for two years before gradually recovering to pre-disturbance levels by about 2003-4 (Figure 6). Since that time LAI has been relatively constant on a large-scale average, although localized decreases have been observed resulting from smaller disturbances (late-spring frost, microburst windstorm). Continued monitoring is needed to allow researchers to capture effects of environmental change on forest health and dynamics (Fahey et al. 2022).</p>
+<p>Leaf area index of northern hardwood forest measured based on leaf litterfall A. adjacent to reference watershed 6 and B. calcium-treated watershed 1. Data points indicate annual estimates for six monitored forest stands adjacent to W6 and three stands in W1.</p>
+<p>Figure 6. Leaf area index of northern hardwood forest measured based on leaf litterfall A. adjacent to reference watershed 6 and B. calcium-treated watershed 1. Data points indicate annual estimates for six monitored forest stands adjacent to W6 and three stands in W1.</p>
+</section>
+<section id="questions-for-further-study." class="level2" data-number="5.5">
+<h2 data-number="5.5" class="anchored" data-anchor-id="questions-for-further-study."><span class="header-section-number">5.5</span> Questions for Further Study.</h2>
+<ul>
+<li>What are the mechanisms contributing to soil nutrient limitation of forest productivity?</li>
+<li>Why does forest NPP decline with stand age – so-called “age-related NPP decline”?</li>
+<li>How does BNPP associated with rhizosphere carbon flux vary across the forest landscape, and what environmental and biotic factors influence this flux pathway?</li>
+<li>How will forest NPP respond to the long-term amelioration of soil calcium depletion on WS1?</li>
+<li>Conversely, will the depletion of soil calcium resulting from whole-tree harvest limit forest NPP on WS5?</li>
+<li>How will forest NPP and biomass accumulation respond to continued changes in climate and atmospheric carbon dioxide concerntration?</li>
+</ul>
+</section>
+<section id="references" class="level2" data-number="5.6">
+<h2 data-number="5.6" class="anchored" data-anchor-id="references"><span class="header-section-number">5.6</span> References</h2>
+<div class="references">
+<p>Bailey, A. S., Hornbeck, J. W., Campbell, J. L., &amp; Eagar, C. (2003). <em>Hydro-meteorological database for Hubbard Brook Experimental Forest: 1955–2000</em> (Gen.&nbsp;Tech. Rep.&nbsp;NE-305). USDA Forest Service, Northeastern Research Station.</p>
+<p>Battles, J. J., Fahey, T. J., Driscoll, C. T., Jr., Blum, J. D., &amp; Johnson, C. E. (2014). Restoring soil calcium reverses forest decline. <em>Environmental Science &amp; Technology Letters, 1</em>(1), 15–19. <a href="https://doi.org/10.1021/ez400033d">https://doi.org/10.1021/ez400033d</a></p>
+<p>Blum, J. D., Klaue, A., Nezat, C. A., Driscoll, C. T., Johnson, C. E., Siccama, T. G., Eagar, C., Fahey, T. J., &amp; Likens, G. E. (2002). Mycorrhizal weathering of apatite as an important calcium source in base-poor forest ecosystems. <em>Nature, 417</em>, 729–731. <a href="https://doi.org/10.1038/nature00793">https://doi.org/10.1038/nature00793</a></p>
+<p>Bormann, B. T., Bormann, F. H., Bowden, W. B., Pierce, R. S., Hamburg, S. P., Wang, D., Snyder, M. C., Li, C. Y., &amp; Ingersoll, R. C. (1993). Rapid N₂ fixation in pines, alder and locust: Evidence from the sandbox ecosystem study. <em>Ecology, 74</em>(2), 583–598. <a href="https://doi.org/10.2307/1939321">https://doi.org/10.2307/1939321</a></p>
+<p>Bormann, F. H., &amp; Likens, G. E. (1979). <em>Pattern and process in a forested ecosystem</em>. Springer. <a href="https://doi.org/10.1007/978-1-4612-6232-9">https://doi.org/10.1007/978-1-4612-6232-9</a></p>
+<p>Clark, D. A., Brown, S., Kicklighter, D., Chambers, J. Q., Thomlinson, J. R., &amp; Ni, J. (2001). Measuring net primary production in forests: Concepts and field methods. <em>Ecological Applications, 11</em>, 356–370. <a href="https://doi.org/10.1890/1051-0761(2001)011%5B0356:MNPPIF%5D2.0.CO;2">https://doi.org/10.1890/1051-0761(2001)011[0356:MNPPIF]2.0.CO;2</a></p>
+<p>Fahey, T. J., Cleavitt, N. L., &amp; Battles, J. J. (2022). Long-term variation of leaf abundance in a northern hardwood forest. <em>Ecological Indicators, 137</em>, 108746. <a href="https://doi.org/10.1016/j.ecolind.2022.108746">https://doi.org/10.1016/j.ecolind.2022.108746</a></p>
+<p>Fahey, T. J., Sherman, R. E., &amp; Weinstein, D. A. (2013). Demography, biomass and productivity of a northern hardwood forest on the Allegheny Plateau. <em>Journal of the Torrey Botanical Society, 140</em>(1), 52–64. <a href="https://doi.org/10.3159/TORREY-D-12-00029.1">https://doi.org/10.3159/TORREY-D-12-00029.1</a></p>
+<p>Fahey, T. J., Siccama, T. G., Driscoll, C. T., Likens, G. E., Campbell, J., Johnson, C. E., Aber, J. D., Cole, J. J., Fisk, M. C., Groffman, P. M., Holmes, R. T., Schwarz, P. A., &amp; Yanai, R. D. (2005). The biogeochemistry of carbon at Hubbard Brook. <em>Biogeochemistry, 75</em>(1), 109–176. <a href="https://doi.org/10.1007/s10533-004-6321-y">https://doi.org/10.1007/s10533-004-6321-y</a></p>
+<p>Fahey, T. J., Hughes, J. W., Pu, M., &amp; Arthur, M. A. (1988). Root decomposition and nutrient flux following whole-tree harvest of northern hardwood forest. <em>Forest Science, 34</em>(3), 744–768. <a href="https://doi.org/10.1093/forestscience/34.3.744">https://doi.org/10.1093/forestscience/34.3.744</a></p>
+<p>Federer, C. A. (1977). Leaf resistance and xylem potential differ among broadleaved species. <em>Forest Science, 23</em>(4), 411–419. <a href="https://doi.org/10.1093/forestscience/23.4.411">https://doi.org/10.1093/forestscience/23.4.411</a></p>
+<p>Halman, J. M., Schaberg, P. G., Hawley, G. J., Pardo, L. A., &amp; Fahey, T. J. (in review). Calcium and aluminum impacts on sugar maple physiology in a northern hardwood forest. <em>Tree Physiology</em>.<br>
+(No DOI available – manuscript in review)</p>
+<p>Holmes, R. T., &amp; Sturges, F. W. (1975). Bird community dynamics and energetics in a northern hardwoods ecosystem. <em>Journal of Animal Ecology, 44</em>, 175–200. <a href="https://doi.org/10.2307/3853">https://doi.org/10.2307/3853</a></p>
+<p>Huggett, B. A., Schaberg, P. G., Hawley, G. J., &amp; Eagar, C. (2007). Long-term calcium addition increases growth release, wound closure, and health of sugar maple (<em>Acer saccharum</em>) trees at the Hubbard Brook Experimental Forest. <em>Canadian Journal of Forest Research, 37</em>, 1692–1700. <a href="https://doi.org/10.1139/X07-070">https://doi.org/10.1139/X07-070</a></p>
+<p>Jenkins, J. C., Chojnacky, D. C., Heath, L. S., &amp; Birdsey, R. A. (2003). National-scale biomass estimators for United States tree species. <em>Forest Science, 49</em>, 12–35. <a href="https://doi.org/10.1093/forestscience/49.1.12">https://doi.org/10.1093/forestscience/49.1.12</a></p>
+<p>Johnson, C. E., Driscoll, C. T., Siccama, T. G., &amp; Likens, G. E. (2000). Element fluxes and landscape position in a northern hardwood forest watershed-ecosystem. <em>Ecosystems, 3</em>, 159–184. <a href="https://doi.org/10.1007/s100210000014">https://doi.org/10.1007/s100210000014</a></p>
+<p>Keenan, T. F., Hollinger, D. Y., Bohrer, G., Dragoni, D., Munger, J. W., Schmid, H. P., &amp; Richardson, A. D. (2013). Increase in forest water use efficiency as atmospheric carbon dioxide concentrations rise. <em>Nature, 499</em>, 324–327. <a href="https://doi.org/10.1038/nature12291">https://doi.org/10.1038/nature12291</a></p>
+<p>Keeton, W. S., Whitman, A. A., McGee, G. G., &amp; Goodale, C. L. (2011). Late-successional biomass development in northern hardwood-conifer forests of the northeastern United States. <em>Forest Science, 57</em>, 489–505. <a href="https://doi.org/10.1093/forestscience/57.6.489">https://doi.org/10.1093/forestscience/57.6.489</a></p>
+<p>Kelty, M. J. (1989). Productivity of New England hemlock/hardwood stands as affected by species composition and canopy structure. <em>Forest Ecology and Management, 28</em>, 237–257. <a href="https://doi.org/10.1016/0378-1127(89)90047-9">https://doi.org/10.1016/0378-1127(89)90047-9</a></p>
+<p>Lichstein, J. W., Wirth, C., Horn, H. S., &amp; Pacala, S. W. (2009). Biomass chronosequences of United States forests: Implications for carbon storage and forest management. In C. Wirth, G. Gleixner, &amp; M. Heimann (Eds.), <em>Old growth forests</em> (Ecological Studies 207, pp.&nbsp;301–341). Springer. <a href="https://doi.org/10.1007/978-3-540-92706-8_13">https://doi.org/10.1007/978-3-540-92706-8_13</a></p>
+<p>Long, R. P., Horsley, S. B., Hallett, R. A., &amp; Bailey, S. W. (2009). Sugar maple growth in relation to nutrition and stress in the northeastern United States. <em>Ecological Applications, 19</em>, 1454–1466. <a href="https://doi.org/10.1890/08-1535.1">https://doi.org/10.1890/08-1535.1</a></p>
+<p>Norby, R. J., et al.&nbsp;(2005). Forest response to elevated CO₂ is conserved across a broad range of productivity. <em>Proceedings of the National Academy of Sciences, 102</em>, 18052–18056. <a href="https://doi.org/10.1073/pnas.0509478102">https://doi.org/10.1073/pnas.0509478102</a></p>
+<p>Reiners, W. A., Driese, K. L., Fahey, T. J., &amp; Gerow, K. G. (2012). Effects of three years of regrowth inhibition on the resilience of a clear-cut northern hardwood forest. <em>Ecosystems, 15</em>, 1351–1362. <a href="https://doi.org/10.1007/s10021-012-9589-0">https://doi.org/10.1007/s10021-012-9589-0</a></p>
+<p>Ryan, M. G., Binkley, D., &amp; Fownes, J. H. (1997). Age-related decline in forest productivity: Pattern and process. <em>Advances in Ecological Research, 27</em>, 213–262. <a href="https://doi.org/10.1016/S0065-2504(08)60013-2">https://doi.org/10.1016/S0065-2504(08)60013-2</a></p>
+<p>Tierney, G. L., &amp; Fahey, T. J. (2001). Evaluating minirhizotron estimates of fine root longevity and production in the forest floor of a temperate broadleaf forest. <em>Plant and Soil, 229</em>(2), 167–176. <a href="https://doi.org/10.1023/A:1004813819370">https://doi.org/10.1023/A:1004813819370</a></p>
+<p>Tominaga, K., et al.&nbsp;(2010). Predicting acidification recovery at the Hubbard Brook Experimental Forest, New Hampshire: Evaluation of four models. <em>Environmental Science &amp; Technology, 44</em>(23), 9003–9009. <a href="https://doi.org/10.1021/es102243j">https://doi.org/10.1021/es102243j</a></p>
+<p>Vadeboncoeur, M. A. (2010). Meta-analysis of fertilization experiments indicates multiple limiting nutrients in northeastern deciduous forests. <em>Canadian Journal of Forest Research, 40</em>, 1766–1780. <a href="https://doi.org/10.1139/X10-127">https://doi.org/10.1139/X10-127</a></p>
+<p>Whittaker, R. H., Bormann, F. H., Likens, G. E., &amp; Siccama, T. G. (1974). The Hubbard Brook ecosystem study: Forest biomass and production. <em>Ecological Monographs, 44</em>(2), 233–254. <a href="https://doi.org/10.2307/1942313">https://doi.org/10.2307/1942313</a></p>
+<p>Woodbury, P. B., Smith, J. E., &amp; Heath, L. S. (2007). Carbon sequestration in the U.S. forest sector from 1990 to 2010. <em>Forest Ecology and Management, 241</em>, 14–27. <a href="https://doi.org/10.1016/j.foreco.2007.01.006">https://doi.org/10.1016/j.foreco.2007.01.006</a></p>
+<p>Yanai, R. D., Battles, J. J., Richardson, A. D., Blodgett, C. A., Wood, D. M., &amp; Rastetter, E. B. (2010). Estimating uncertainty in ecosystem budget calculations. <em>Ecosystems, 13</em>(2), 239–248. <a href="https://doi.org/10.1007/s10021-010-9321-2">https://doi.org/10.1007/s10021-010-9321-2</a></p>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./CompositionDynamics.html" class="pagination-link" aria-label="Forest Composition and Dynamics">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Forest Composition and Dynamics</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

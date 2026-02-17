@@ -7,10 +7,29 @@ book:
   title: ""
   chapters:
     - index.qmd
+    #- test.qmd
     - WhatsNew.qmd
     - SiteHistory.qmd
     - ClimateChange.qmd
     - Hydrology.qmd
+    - CompositionDynamics.qmd
+    - BiomassProductivity.qmd
+#6.Decomposition and Soil Carbon Sequestration
+#7.Soil Biology
+#8.Biogeochemistry: Element behavior and Interactions
+#9.Atmospheric inputs and canopy interactions of nutrients and pollutants
+#10.Ecosystem Effects of Acidic Deposition
+#11.Mineral Weathering
+#12.Roots and Mycorrhizae
+#13.Nitrogen Cycling
+#14.Phosphorus
+#15.Stream Ecosystems in the Hubbard Brook Experimental Forest
+#16.Forest Physiology and Phenology
+#17.Forest Management and Ecosystem Dynamics
+#18.Trouble with Beech
+#19.All About Birds
+#20.Understory Vegetation
+#21.Scaling Up: Gradients, Models and Remote Sensing
 
   sidebar:
     style: docked
@@ -25,4 +44,4 @@ format:
     toc-title: "Chapter Sections"
     include-before-body: includes/banner.html
     
-from: markdown+raw_html
+#from: markdown+raw_html

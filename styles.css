@@ -170,3 +170,13 @@ body.quarto-light .quarto-title .chapter-number,
 body.quarto-dark .quarto-title .chapter-number {
   display: none;
 }
+
+.video-caption {
+  width: 80%;
+  max-width: 900px;
+  margin: 0.5rem auto 2rem auto;
+  text-align: center;
+  font-size: 0.95rem;
+  font-style: italic;
+  color: #555;
+}

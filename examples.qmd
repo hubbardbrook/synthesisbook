@@ -1,0 +1,47 @@
+---
+title: "Test"
+---
+__sample to embed video from smugmug__
+
+__Sample to insert a figure.centered with id tag to reference in text__
+![Hubbard Brook Experimental Forest Map](figs/Intro/HubbardBrookMap-905x640.png){#fig-map}
+
+
+__figure float left - fence with this__
+
+::: {style="float: left; width: 40%; margin-right: 1em;"}
+
+![Atmospheric deposition collectors at Hubbard Brook.](figs/Intro/Rain_GaugeB.jpg){#fig-rain-gauge}
+
+:::
+
+__figure float right__
+
+::: {style="float: right; width: 40%; margin-right: 1em;"}
+
+![Atmospheric deposition collectors at Hubbard Brook.](figs/Intro/Rain_GaugeB.jpg){#fig-rain-gauge}
+
+:::
+
+<video controls 
+       style="width:80%; max-width:900px; display:block; margin:1.5rem auto;">
+  <source src="https://photos.smugmug.com/Videos/Videos/i-5Tq4SH6/0/LjWKPMdNBk3GT7QSmZNJvDPQMhthpr2qkft6Dzg92/1280/Pam%20Templer%20talk_edited-1280.mp4" type="video/mp4">
+</video>
+
+<p class="video-caption">
+Dr. Pamela Templer describes aspects of manipulations in an intensive plot and initial findings associated with Hubbard Brook’s Nitrogen Oligotrophication (HBNO) study. Video filmed at HBNO Intensive Low 3 at the Hubbard Brook Experimental Forest on May 17, 2024.
+</p>
+
+
+
+
+__Sample to insert plotly from github.io__
+
+::: {#fig-data-portal}
+<iframe src="https://hubbardbrook.github.io/ForestComposition_Dynamics/fig7_ACSA_FAGR_seeds.html" width="100%" height="600" style="border: none;">
+
+</iframe>
+
+Seed production for sugar maple (ASCA) and American beech (FAGR) at Hubbard Brook Experimental Forest, NH from 1993-2016. A-B: Bars show the annual mean for all collectors and asterisks denote mast years. The long-term mean is shown by a solid line. C-D: The standardized deviation of annual seed production from the long-term means (ASD). The dotted line shows the positive reflection of the minimum standardized deviate used to denote mast years as indicated in A. These data were first published in Cleavitt and Fahey (2017). This figure is updated with current data available in the Environmental Data Initiative Repository (Fahey, T. and N. Cleavitt. 2025. Tree Seed Data at the Hubbard Brook Experimental Forest, 1993 - ongoing ver 4. Environmental Data Initiative. https://doi.org/10.6073/pasta/19e69d787124d60ccdfede1b5b813061). Hover over graph to access interactive controls available at the top right (zoom/pan/etc).
+
+:::

@@ -9,6 +9,9 @@ Chapter Editor: John Campbell
   <source src="https://photos.smugmug.com/Videos/Videos/i-5Tq4SH6/0/LjWKPMdNBk3GT7QSmZNJvDPQMhthpr2qkft6Dzg92/1280/Pam%20Templer%20talk_edited-1280.mp4" type="video/mp4">
 </video>
 
+<p class="video-caption">
+Dr. Pamela Templer describes aspects of manipulations in an intensive plot and initial findings associated with Hubbard Brook’s Nitrogen Oligotrophication (HBNO) study. Video filmed at HBNO Intensive Low 3 at the Hubbard Brook Experimental Forest on May 17, 2024.
+</p>
 
 ## Background
 
@@ -33,13 +36,11 @@ The trends in this chapter were analyzed with the non-parametric Mann-Kendall te
 
 ## Air Temperature
 
-Air temperature has been measured at seven locations at the HBEF; one location at the U.S. Forest Service Headquarters building (HQ) and six locations in the vicinity of the gaged watersheds (Bailey et al. 2003; see also Introduction chapter, Figure 1). Air temperature measurements have been collected for various time periods at different locations beginning shortly after the establishment of the HBEF in 1955. The oldest records are from Station 1 (STA1) and HQ, which respectively began in 1956 and 1957.
+Air temperature has been measured at seven locations at the HBEF; one location at the U.S. Forest Service Headquarters building (HQ) and six locations in the vicinity of the gauged watersheds (Bailey et al. 2003; see also Introduction chapter, @fig-air-temp-class). Air temperature measurements have been collected for various time periods at different locations beginning shortly after the establishment of the HBEF in 1955. The oldest records are from Station 1 (STA1) and HQ, which respectively began in 1956 and 1957.
 
 Long-term mean annual air temperature ranges from 3.7 to 6.7 °C across the seven sites where it is measured, and generally increases with elevation slightly more than the adiabatic lapse rate (0.5 vs 0.6 °C degrees per 100 m. At STA1, mean monthly air temperature ranges from a high of 19 °C in July to a low of -8 °C in January. The highest mean daily temperature ever recorded was 37 °C in on July 22, 2011 at HQ and the low was -36 °C on January 23, 1976 at STA14.
 
-Figure 1. Change in the frequency of days in each air temperature class at the HBEF. Values are frequency of days in each bin between 1986 and 2005 expressed as a percentage change from its frequency between 1958 and 1977. (Hamburg et al. 2013).
-
-Figure 1. Change in the frequency of days in each air temperature class at the HBEF. Values are frequency of days in each bin between 1986 and 2005 expressed as a percentage change from its frequency between 1958 and 1977. (Hamburg et al. 2013).
+![Change in the frequency of days in each air temperature class at the HBEF. Values are frequency of days in each bin between 1986 and 2005 expressed as a percentage change from its frequency between 1958 and 1977. (Hamburg et al. 2013). ](figs/ClimateChange/AirTempClassFrequency.png){#fig-air-temp-class}
 
 Observations show an overall warming trend at the HBEF, with air temperatures increasing by about 1.4 °C over the past 60 years at STA1. Air temperature increases have been recorded across all seasons, but winter temperatures have risen the most, with average winter temperatures warming by 2.0 °C since 1956. Fall temperatures have warmed the least, amounting to 0.9 °C over this period. Daily minimum temperatures, which typically occur at night, have risen by an average of 1.7 °C, while daily maximum temperatures have risen by 1.3 °C since 1956. The number of warm days has increased slightly at the HBEF, whereas the number of extremely cold days has decreased (Figure 1). The loss of extremely cold days is one of the most striking observations in the air temperature record, and has important biological implications. For example, cold snaps during winter keep insect populations in check, and are especially important for limiting the spread of invasive species northward. Warmer winter temperatures may remove barriers to both native and non-native species, potentially resulting in declines in forest health and changes in species composition.
 
@@ -51,7 +52,15 @@ Long-term mean annual precipitation ranges from 1326 to 1607 mm across the 24 ga
 
 The annual volume of precipitation has been increasing at the HBEF, amounting to a total increase of about 300 mm since 1956 (Figure 2). Interestingly, there has been no significant increase in winter precipitation, and the increases in annual precipitation are attributed to increases that have occurred during the other three seasons. This finding differs from future climate change projections for the northeastern U.S., which predict greater increases in winter precipitation during the 21st century, and little to no change in summer precipitation (Hayhoe et al. 2007). Determining the reasons for this apparent disagreement between recent trends and model projections presents an important challenge for regional climatology.
 
-Figure 2. Trends an annual precipitation at the HBEF compared to the regional average (i.e., Bethlehem and Hanover, NH, and St. Johnsbury, VT). Data from NOAA's National Centers for Environmental Information (https://www.ncei.noaa.gov/). This figure is updated with current data available in the Environmental Data Initiative Repository (EDI; https://portal.edirepository.org) and at NOAA NCEI. Hover over graph to access interactive controls available at the top right (zoom/pan/etc).
+::: {#fig-data-portal}
+<iframe src="https://hubbardbrook.github.io/climateChange/regional_and_HB_precip.html" width="100%" height="600" style="border: none;">
+
+</iframe>
+Trends an annual precipitation at the HBEF compared to the regional average (i.e., Bethlehem and Hanover, NH, and St. Johnsbury, VT). Data from NOAA's National Centers for Environmental Information (https://www.ncei.noaa.gov/). This figure is updated with current data available in the Environmental Data Initiative Repository (EDI; <a href="https://portal.edirepository.org">https://portal.edirepository.org</a>) and at NOAA NCEI. Hover over graph to access interactive controls available at the top right (zoom/pan/etc).
+
+::: 
+
+
 
 Compared to air temperature, precipitation is more variable from year-to-year, and these increasing trends in precipitation are only significant at gages with longer records (Campbell et al. 2010). It should be noted that the rain gages that have been in operation the longest also captured a period of drought in the 1960’s. This was a well-documented multi-year drought that had major impacts in the northeastern U.S. (Namias 1966). In recent decades there has been a shift toward a wet phase. Consequently, the longest precipitation records at the HBEF are bookended by a dry period at the beginning of the record and a wet period at the end of the record. The increases in precipitation that have been observed at the HBEF for this time period are slightly greater than increases in the broader region, and annual precipitation at the HBEF and broader region is greater now than ever before in recorded history.
 
@@ -65,7 +74,15 @@ Snowpack has been measured under the forest canopy at 21 locations for various t
 
 Historically, the HBEF has had a continuous snowpack throughout the winter that on average persists from late December until mid-April, with a peak depth in March. Since air temperatures are getting warmer and the volume of precipitation in winter has not changed, it is not surprising that the snowpack has declined over the periood of record. The long-term average annual maximum snow depth and corresponding snow water equivalent (SWE) ranges from 47 cm (12 cm SWE) to 101 (27 cm SWE) at HQ and STA17, respectively. At STA2, which has the longest record (beginning in 1956), maximum annual snow depth has declined by 29 cm (9 cm SWE). The length of the snow-covered period is also getting shorter. On average there are 111 days with snow cover at STA1. The number of days with snow cover has declined by about 20 days over the record (Figure 3). The changes in the snowpack have resulted in shifts in hydrology (see Hydrology chapter for more detail). The annual hydrograph at the HBEF is characterized by low streamflow during winter as precipitation accumulates in the snowpack, followed by a snowmelt peak during spring runoff. The declining snowpack has caused a flattening of the hydrograph, due to more frequent melting events during winter that recharge groundwater, and a reduction in the spring peak caused by less snowpack accumulation and melt (Campbell et al. 2011).
 
-Figure 3. Long-term trends in the maximum annual snow depth, maximum annual snow water equivalent, and number of days with snow cover measured at weather station 2 at Hubbard Brook Experimental Forest. (Original figure in Campbell et al., 2007). This figure is updated with current data available in the Environmental Data Initiative Repository (EDI; https://portal.edirepository.org). Hover over graph to access interactive controls available at the top right (zoom/pan/etc).
+::: {#fig-data-portal}
+<iframe src="https://hubbardbrook.github.io/climateChange/fig_3_snow_depth_cover_swe.html" width="100%" height="600" style="border: none;">
+
+</iframe>
+Long-term trends in the maximum annual snow depth, maximum annual snow water equivalent, and number of days with snow cover measured at weather station 2 at Hubbard Brook Experimental Forest. (Original figure in Campbell et al., 2007). This figure is updated with current data available in the Environmental Data Initiative Repository (EDI; https://portal.edirepository.org). Hover over graph to access interactive controls available at the top right (zoom/pan/etc).
+
+::: 
+
+
 
 Soil frost is present approximately two out of every three years at the HBEF, depending on how cold it is at the onset of winter and when the snowpack begins to develop (Campbell et al. 2010). Once the ground is frozen, it generally stays frozen beneath the snowpack throughout the entire winter. The average annual maximum soil frost depth ranges from 2 cm at STA9 to 9 cm at HQ.
 
@@ -75,9 +92,12 @@ The deepest soil frost ever recorded was 30 cm in 1980 at STA17. Soil frost is h
 
 Climate change has the potential to affect the growth, composition and health of vegetation in many ways. The HBEF lies on the northern hardwood and spruce-fir ecotone. On the warmer, lower elevation, south-facing watersheds, northern hardwoods comprise 83 to 99% of the forest cover, whereas the colder, higher elevation north-facing watersheds have a greater proportion of spruce-fir (73 to 97%; National Land Cover Dataset, Homer et al. 2015). It has been suggested that as the climate changes, spruce-fir should recede upslope, with northern hardwoods filling in behind it (Beckage et al. 2008). However, at the HBEF there is little evidence to support this with existing data. In fact, data from the HBEF (van Doorn et al. 2011) and the larger region indicate that spruce-fir is becoming more prevalent at lower elevations (Foster and D’Amato 2015). Undoubtedly, climate is one of many factors that influences tree species composition, but it is not clear how the combination of climate change with other changes will alter future vegetation assemblages.
 
-Figure 4. The vernal transition is defined as the period between the last day of snowpack and the day of full canopy expansion. This period is characterized by a sharp increase in soil temperature that triggers biological activity in soils. (Groffman et al., 2012).
+::: {style="float: left; width: 40%; margin-right: 1em;"}
 
-Figure 4. The vernal transition is defined as the period between the last day of snowpack and the day of full canopy expansion. This period is characterized by a sharp increase in soil temperature that triggers biological activity in soils. (Groffman et al., 2012).
+![The vernal transition is defined as the period between the last day of snowpack and the day of full canopy expansion. This period is characterized by a sharp increase in soil temperature that triggers biological activity in soils. (Groffman et al., 2012).](figs/ClimateChange/VernalTransition.png){#fig-vernaltransition}
+
+:::
+
 
 Extreme weather events are perhaps a more important influence on vegetation than subtle shifts in climate over time. These events are projected to increase in number and strength in the future, owing to more energy in the atmosphere. Some examples of documented extreme weather events at the HBEF with direct effects on vegetation include ice storms, hurricanes, microbursts, hail storms, droughts, floods, spring freeze events, fall snowfall events, and episodes of soil freezing. Additionally, changes in climate can open a Pandora’s box of indirect effects, such as outbreaks of pests and pathogens, and fire. Because of these complexities, there is much uncertainty about how climate change may affect vegetation at the HBEF in the future.
 
@@ -101,9 +121,10 @@ Ice storms are rare and typically localized extreme weather events that are diff
 
 It was expected that the warmer temperatures in heavily damaged plots would result in an increase in soil respiration; however preliminary results indicate that soil respiration was actually lower in these plots possibly because of reduced root growth as noted following the natural ice storm event of 1999. It was also expected that nutrients in soil solution would increase due to lack of uptake by damaged vegetation. However, preliminary results have shown no significant changes in soil solution losses of nutrients despite significant forest canopy damage. Further monitoring will determine whether these trends continue in the future.
 
-Figure 5. Climate change manipulation experiments at the HBEF including: (a) snow removal to induce soil freezing; (b) heating cables to warm plots as shown with a thermal image; (c) throughfall exclusion to simulate drought; and, (d) spraying water over the canopy during cold weather to create an artificial ice storm.
 
-Figure 5. Climate change manipulation experiments at the HBEF including: (a) snow removal to induce soil freezing; (b) heating cables to warm plots as shown with a thermal image; (c) throughfall exclusion to simulate drought; and, (d) spraying water over the canopy during cold weather to create an Questions for Further Study.
+![Climate change manipulation experiments at the HBEF including: (a) snow removal to induce soil freezing; (b) heating cables to warm plots as shown with a thermal image; (c) throughfall exclusion to simulate drought; and, (d) spraying water over the canopy during cold weather to create an artificial ice storm.](figs/ClimateChange/ClimateChangeExperimentPhotos.png){#fig-climateexperiments}
+
+
 
 ## Questions for Further Study
 

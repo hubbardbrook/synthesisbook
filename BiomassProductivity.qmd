@@ -7,8 +7,11 @@ Chapter Editors: John Battles
 
 <video controls 
        style="width:80%; max-width:900px; display:block; margin:1.5rem auto;">
-  <source src="https://photos.smugmug.com/Videos/Videos/i-grVSkZS/0/KNH5jPVQg6d5gqgfx7HNg2VgjcbH6S4JrBgDX7WC9/1280/Ruth%20Yanai%20talk_edited-1280.mp4" type="video/mp4">
+  <source src="https://photos.smugmug.com/Videos/Videos/i-Nfz5GMH/0/Lp4DqsCCjBwksD97PKqQcg9f9mhcbC3DmM4GKN2Gh/1280/John%20Battles%20talk_edited-1280.mp4" type="video/mp4">
 </video>
+<p class="video-caption">
+Dr. John Battles speaks on the continuous 60-year record of forest inventory data within Watershed 6, including the lack of recovery of key tree species from acid rain. Video filmed at the Hubbard Brook Experimental Forest on May 17, 2024.
+</p>
 
 
 ## Introduction

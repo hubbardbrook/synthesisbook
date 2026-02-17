@@ -86,10 +86,10 @@ The water flow dynamics of a watershed can be further abstracted to represent th
 
 ## Access Data
 
-    USDA Forest Service, Northern Research Station. 2020. Hubbard Brook Experimental Forest: Daily Streamflow by Watershed, 1956 - present ver 11. Environmental Data Initiative. https://doi.org/10.6073/pasta/d10220595119b502fe2ac14833fa4b9b
-    USDA Forest Service, Northern Research Station. 2021. Hubbard Brook Experimental Forest: Total Daily Precipitation by Watershed, 1956 - present ver 14. Environmental Data Initiative. https://doi.org/10.6073/pasta/dc5880a6956f0cdd706d1c13b13e23c3
-    USDA Forest Service, Northern Research Station. 2021. Hubbard Brook Experimental Forest: Routine Seasonal Phenology Measurements, 1989 - present ver 12. Environmental Data Initiative. https://doi.org/10.6073/pasta/f2c18a955c24eadaec1fa0d915a7b527
-    Hubbard Brook Watershed Ecosystem Record (HBWatER). 2021. Continuous precipitation and stream chemistry data, Hubbard Brook Ecosystem Study, 1963 u2013 present. ver 6. Environmental Data Initiative. https://doi.org/10.6073/pasta/ee9815b41b79c134fd714736ce98676a
+* USDA Forest Service, Northern Research Station. 2020. Hubbard Brook Experimental Forest: Daily Streamflow by Watershed, 1956 - present ver 11. Environmental Data Initiative. https://doi.org/10.6073/pasta/d10220595119b502fe2ac14833fa4b9b
+* USDA Forest Service, Northern Research Station. 2021. Hubbard Brook Experimental Forest: Total Daily Precipitation by Watershed, 1956 - present ver 14. Environmental Data Initiative. https://doi.org/10.6073/pasta/dc5880a6956f0cdd706d1c13b13e23c3
+* USDA Forest Service, Northern Research Station. 2021. Hubbard Brook Experimental Forest: Routine Seasonal Phenology Measurements, 1989 - present ver 12. Environmental Data Initiative. https://doi.org/10.6073/pasta/f2c18a955c24eadaec1fa0d915a7b527
+* Hubbard Brook Watershed Ecosystem Record (HBWatER). 2021. Continuous precipitation and stream chemistry data, Hubbard Brook Ecosystem Study, 1963 u2013 present. ver 6. Environmental Data Initiative. https://doi.org/10.6073/pasta/ee9815b41b79c134fd714736ce98676a
 
 
 ## References
